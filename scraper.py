@@ -9,7 +9,12 @@ Stores new versions only (hash-based) in data/<site>/<category>.
 Tracks seen artifacts in seen.sqlite3
 """
 
-import os, re, time, hashlib, sqlite3, argparse
+import os
+import re
+import time
+import hashlib
+import sqlite3
+import argparse
 from datetime import datetime
 from urllib.parse import urljoin, urlparse, urlencode
 
@@ -134,8 +139,10 @@ def fetch_if_new(con, url, dry_run=False):
     prev = already_seen(con, url)
 
     headers = {}
-    if etag: headers["If-None-Match"] = etag
-    if last_mod: headers["If-Modified-Since"] = last_mod
+    if etag:
+        headers["If-None-Match"] = etag
+    if last_mod:
+        headers["If-Modified-Since"] = last_mod
 
     try:
         r = SESSION.get(url, headers=headers, timeout=60)
@@ -156,7 +163,7 @@ def fetch_if_new(con, url, dry_run=False):
         upsert_seen(con, url, r.headers.get("ETag"), r.headers.get("Last-Modified"), chash)
     return blob, r.headers.get("ETag"), r.headers.get("Last-Modified")
 
-# ------------------ Parsing: PFZW (json_links) ------------------
+# ------------------ PFZW (json_links) ------------------
 
 def extract_json_urls(html, base_url):
     soup = BeautifulSoup(html, "html.parser")
@@ -248,7 +255,7 @@ def scrape_site_json_links(site, con, dry_run=False, only_categories=None):
         else:
             print(f"[SKIP] {site['name']}/{category}: no change")
 
-# ------------------ Parsing: PMT (html_tables) ------------------
+# ------------------ PMT (html_tables) ------------------
 
 def nearest_heading_label(table):
     cap = table.find("caption")
@@ -280,31 +287,6 @@ def normalize_df(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 def html_tables_extract(html, url, must_include_headings=None):
-
-def scrape_site_html_tables(site, con, dry_run=False):
-    \"\"\"Scrape a page containing inline HTML tables (PMT-style).\"\"\"
-    html, final_url = get_html(site[\"start_url\"])
-    tables = html_tables_extract(html, final_url, site.get(\"must_include_headings\"))
-
-    if not tables:
-        print(f\"[WARN] No tables found on {site['name']}\")
-        return
-
-    for category, df in tables:
-        # Synthetic key per table on the page to track changes
-        synthetic_url = f\"{final_url}#{category}\"
-        h = dataframe_hash(df)
-        prev = already_seen(con, synthetic_url)
-
-        if prev and prev[2] == h:
-            print(f\"[SKIP] {site['name']}/{category}: no change\")
-            continue
-
-        if not dry_run:
-            upsert_seen(con, synthetic_url, None, None, h)
-        path = save_table(site[\"name\"], category, df, dry_run=dry_run)
-        print(f\"[NEW ] {site['name']}/{category} -> {path}\")
-
     soup = BeautifulSoup(html, "html.parser")
     tables = soup.find_all("table")
     results = []
@@ -331,7 +313,30 @@ def scrape_site_html_tables(site, con, dry_run=False):
 
     return results
 
-# ------------------ Parsing: PME (paged_html_tables) ------------------
+def scrape_site_html_tables(site, con, dry_run=False):
+    """Scrape a page containing inline HTML tables (PMT-style)."""
+    html, final_url = get_html(site["start_url"])
+    tables = html_tables_extract(html, final_url, site.get("must_include_headings"))
+
+    if not tables:
+        print(f"[WARN] No tables found on {site['name']}")
+        return
+
+    for category, df in tables:
+        synthetic_url = f"{final_url}#{category}"
+        h = dataframe_hash(df)
+        prev = already_seen(con, synthetic_url)
+
+        if prev and prev[2] == h:
+            print(f"[SKIP] {site['name']}/{category}: no change")
+            continue
+
+        if not dry_run:
+            upsert_seen(con, synthetic_url, None, None, h)
+        path = save_table(site["name"], category, df, dry_run=dry_run)
+        print(f"[NEW ] {site['name']}/{category} -> {path}")
+
+# ------------------ PME (paged_html_tables) ------------------
 
 PAGERE = re.compile(r"Pagina\s+(?P<cur>\d+)\s+van\s+(?P<total>\d+)", re.I)
 
@@ -346,7 +351,7 @@ def extract_tables_generic(html):
     soup = BeautifulSoup(html, "html.parser")
     tables = []
     for tbl in soup.find_all("table"):
-        head = tbl.find_previous(lambda t: t.name in ("h2","h3","h4"))
+        head = tbl.find_previous(lambda t: t.name in ("h2", "h3", "h4"))
         label = head.get_text(strip=True) if head else "table"
         try:
             df = pd.read_html(StringIO(str(tbl)))[0]
@@ -361,10 +366,10 @@ def extract_tables_generic(html):
 def euro_to_number(s):
     if s is None:
         return None
-    s = str(s).replace("\xa0"," ").replace("€","").strip()
+    s = str(s).replace("\xa0", " ").replace("€", "").strip()
     s = s.replace(".", "")
-    if "," in s and s.rsplit(",",1)[1].isdigit():
-        whole, frac = s.rsplit(",",1)
+    if "," in s and s.rsplit(",", 1)[1].isdigit():
+        whole, frac = s.rsplit(",", 1)
         whole = whole.replace(" ", "").replace(".", "")
         try:
             return float(f"{whole}.{frac}")
