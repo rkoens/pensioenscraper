@@ -1,0 +1,65 @@
+name: Monthly pension scraping
+
+on:
+  schedule:
+    # GitHub Actions draait in UTC. 05:30 UTC ≈ 07:30 CEST / 06:30 CET.
+    - cron: "30 5 1 * *"
+  workflow_dispatch: {}  # handmatig starten
+
+permissions:
+  contents: write  # nodig om commits te kunnen pushen
+
+concurrency:
+  group: pension-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: requirements.txt
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: |
+          python scraper.py
+
+      - name: Show changes
+        run: |
+          git status --porcelain || true
+          ls -R data || true
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Voeg data + sqlite toe (sqlite is handig voor deduplicatie-historie)
+          git add -A data seen.sqlite3 || true
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(data): monthly scrape $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Upload artifact (backup)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-output-${{ github.run_id }}
+          path: |
+            data/
+            seen.sqlite3
