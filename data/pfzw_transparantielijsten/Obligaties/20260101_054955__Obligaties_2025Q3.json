@@ -1,0 +1,7172 @@
+[
+ {
+  "Naam": "AB Ignitis grupe",
+  "Land": "Litouwen",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 2709758
+ },
+ {
+  "Naam": "AB Sagax (publ)",
+  "Land": "Zweden",
+  "Sector": "Financieel overig",
+  "BelangEur": 103479390
+ },
+ {
+  "Naam": "ACCO Brands Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 4695690
+ },
+ {
+  "Naam": "ACEF Holding S.C.A.",
+  "Land": "Luxemburg",
+  "Sector": "Financieel overig",
+  "BelangEur": 3554985
+ },
+ {
+  "Naam": "ADT Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 24071658
+ },
+ {
+  "Naam": "ADVANZ PHARMA HoldCo Limited",
+  "Land": "Luxemburg",
+  "Sector": "Farmaceutica",
+  "BelangEur": 2308219
+ },
+ {
+  "Naam": "AECOM",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 4398823
+ },
+ {
+  "Naam": "AIA Group Limited",
+  "Land": "Hongkong",
+  "Sector": "Verzekeraars",
+  "BelangEur": 31211623
+ },
+ {
+  "Naam": "AIB Group plc",
+  "Land": "Ierland",
+  "Sector": "Banken",
+  "BelangEur": 17149770
+ },
+ {
+  "Naam": "AMN Healthcare Services, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 12993513
+ },
+ {
+  "Naam": "ANZ Group Holdings Limited",
+  "Land": "Australie",
+  "Sector": "Banken",
+  "BelangEur": 13216003
+ },
+ {
+  "Naam": "AP Grand Aggregator (Lux) SCSp",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 4574543
+ },
+ {
+  "Naam": "APA Group",
+  "Land": "Australie",
+  "Sector": "Aardgas",
+  "BelangEur": 9633666
+ },
+ {
+  "Naam": "APCOA Group GmbH",
+  "Land": "Duitsland",
+  "Sector": "Transportdiensten",
+  "BelangEur": 3480080
+ },
+ {
+  "Naam": "APG Energy & Infra Investments Chile Expansion SpA",
+  "Land": "Chili",
+  "Sector": "Elektrisch",
+  "BelangEur": 2348333
+ },
+ {
+  "Naam": "ARD Holdings S.A.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verpakkingen",
+  "BelangEur": 14453754
+ },
+ {
+  "Naam": "ASML Holding N.V.",
+  "Land": "Nederland",
+  "Sector": "Technologie",
+  "BelangEur": 38764935
+ },
+ {
+  "Naam": "ASN Bank N.V.",
+  "Land": "Nederland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 9842820
+ },
+ {
+  "Naam": "ASR Nederland N.V.",
+  "Land": "Nederland",
+  "Sector": "Verzekeraars",
+  "BelangEur": 76968148
+ },
+ {
+  "Naam": "AT&T Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 196470318
+ },
+ {
+  "Naam": "AXA SA",
+  "Land": "Frankrijk",
+  "Sector": "Verzekeraars",
+  "BelangEur": 107421303
+ },
+ {
+  "Naam": "AbbVie Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Farmaceutica",
+  "BelangEur": 7957524
+ },
+ {
+  "Naam": "Accenture plc",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 1372901
+ },
+ {
+  "Naam": "Access Holdings Plc",
+  "Land": "Nigeria",
+  "Sector": "Banken",
+  "BelangEur": 8609507
+ },
+ {
+  "Naam": "Accor SA",
+  "Land": "Frankrijk",
+  "Sector": "Logies",
+  "BelangEur": 22742952
+ },
+ {
+  "Naam": "Acrisure Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 11788972
+ },
+ {
+  "Naam": "Adani Green Energy",
+  "Land": "India",
+  "Sector": "Elektrisch",
+  "BelangEur": 7555469
+ },
+ {
+  "Naam": "Adani Green Energy Limited",
+  "Land": "India",
+  "Sector": "Elektrisch",
+  "BelangEur": 8643698
+ },
+ {
+  "Naam": "AdaptHealth Corp.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 15045017
+ },
+ {
+  "Naam": "Adient plc",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 21459270
+ },
+ {
+  "Naam": "Adtalem Global Education Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 1916608
+ },
+ {
+  "Naam": "Advance Auto Parts, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 9474773
+ },
+ {
+  "Naam": "Advanced Drainage Systems, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 13373944
+ },
+ {
+  "Naam": "Aedifica NV/SA",
+  "Land": "Belgie",
+  "Sector": "Gezondheidszorg Vastgoedfondsen",
+  "BelangEur": 28831051
+ },
+ {
+  "Naam": "Aegea Saneamento e ParticipaÃ§Ãµes S.A.",
+  "Land": "Brazilie",
+  "Sector": "Overige nutsbedrijven",
+  "BelangEur": 76989824
+ },
+ {
+  "Naam": "Aegon Ltd.",
+  "Land": "Nederland",
+  "Sector": "Verzekeraars",
+  "BelangEur": 16341977
+ },
+ {
+  "Naam": "AerCap Holdings N.V.",
+  "Land": "Ierland",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 6193376
+ },
+ {
+  "Naam": "Aeroports de Paris SA",
+  "Land": "Frankrijk",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 1637996
+ },
+ {
+  "Naam": "Aeropuerto Internacional de Tocumen, S.A.",
+  "Land": "Panama",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 1772009
+ },
+ {
+  "Naam": "Afflelou S.A.S.",
+  "Land": "Frankrijk",
+  "Sector": "Detailhandel",
+  "BelangEur": 3405276
+ },
+ {
+  "Naam": "Africa Finance Corporation",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 7104094
+ },
+ {
+  "Naam": "African Development Bank",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 15258632
+ },
+ {
+  "Naam": "Africell Holding Limited",
+  "Land": "Gambia",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 8792536
+ },
+ {
+  "Naam": "Agence Centrale des Organismes de Securite Sociale",
+  "Land": "Frankrijk",
+  "Sector": "Niet gespecificeerd",
+  "BelangEur": 99964000
+ },
+ {
+  "Naam": "Agnaten Se",
+  "Land": "Nederland",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 45096766
+ },
+ {
+  "Naam": "Airport Authority Hong Kong",
+  "Land": "Hongkong",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 11419796
+ },
+ {
+  "Naam": "Akbank T.A.S.",
+  "Land": "Turkije",
+  "Sector": "Banken",
+  "BelangEur": 26239671
+ },
+ {
+  "Naam": "Albertsons Companies, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Supermarkten",
+  "BelangEur": 35011616
+ },
+ {
+  "Naam": "Albion Jvco Limited",
+  "Land": "Luxemburg",
+  "Sector": "Overige industrie",
+  "BelangEur": 19860011
+ },
+ {
+  "Naam": "Alexandria Real Estate Equities, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg Vastgoedfondsen",
+  "BelangEur": 10417768
+ },
+ {
+  "Naam": "Alfa S.A.B. de C.V.",
+  "Land": "Mexico",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 1390041
+ },
+ {
+  "Naam": "Alimentation Couche-Tard Inc.",
+  "Land": "Canada",
+  "Sector": "Detailhandel",
+  "BelangEur": 833065
+ },
+ {
+  "Naam": "Alliant Energy Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 4626600
+ },
+ {
+  "Naam": "Alliant Holdings, L.P.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 13153380
+ },
+ {
+  "Naam": "Allianz SE",
+  "Land": "Duitsland",
+  "Sector": "Verzekeraars",
+  "BelangEur": 55576522
+ },
+ {
+  "Naam": "Ally Financial Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 21742206
+ },
+ {
+  "Naam": "Almendral S.A.",
+  "Land": "Chili",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 10567145
+ },
+ {
+  "Naam": "Alpha Bank S.A.",
+  "Land": "Griekenland",
+  "Sector": "Banken",
+  "BelangEur": 18465544
+ },
+ {
+  "Naam": "Alphabet Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 11301574
+ },
+ {
+  "Naam": "Alstom SA",
+  "Land": "Frankrijk",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 427197
+ },
+ {
+  "Naam": "Alta Equipment Group Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmachines",
+  "BelangEur": 1258170
+ },
+ {
+  "Naam": "Altice USA, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 16884398
+ },
+ {
+  "Naam": "Amadeus IT Group, S.A.",
+  "Land": "Spanje",
+  "Sector": "Technologie",
+  "BelangEur": 1753044
+ },
+ {
+  "Naam": "Amber Finco Plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 6794853
+ },
+ {
+  "Naam": "Ambipar Lux S.a R.l.",
+  "Land": "Brazilie",
+  "Sector": "Niet gespecificeerd",
+  "BelangEur": 402670
+ },
+ {
+  "Naam": "Amer Sports",
+  "Land": "Finland",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 3903933
+ },
+ {
+  "Naam": "American Axle & Manufacturing Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 15968994
+ },
+ {
+  "Naam": "American Electric Power Company, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 3115636
+ },
+ {
+  "Naam": "American Express Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 8541390
+ },
+ {
+  "Naam": "American International Group, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 4591905
+ },
+ {
+  "Naam": "American Tower Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 7487333
+ },
+ {
+  "Naam": "American Water Works Company, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige nutsbedrijven",
+  "BelangEur": 6405367
+ },
+ {
+  "Naam": "Ameritex Holdings LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 7172700
+ },
+ {
+  "Naam": "Amgen Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Farmaceutica",
+  "BelangEur": 3032250
+ },
+ {
+  "Naam": "Amneal Pharmaceuticals",
+  "Land": "Verenigde Staten",
+  "Sector": "Farmaceutica",
+  "BelangEur": 3608017
+ },
+ {
+  "Naam": "Amprion GmbH",
+  "Land": "Duitsland",
+  "Sector": "Elektrisch",
+  "BelangEur": 42052554
+ },
+ {
+  "Naam": "Amvest Beheer BV.",
+  "Land": "Nederland",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 73231566
+ },
+ {
+  "Naam": "AmÃ©rica MÃ³vil, S.A.B. de C.V.",
+  "Land": "Mexico",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 71944988
+ },
+ {
+  "Naam": "Anheuser-Busch InBev SA/NV",
+  "Land": "Belgie",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 159552273
+ },
+ {
+  "Naam": "Aon Plc",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 1053042
+ },
+ {
+  "Naam": "Ap Ix Dsb Holdings, LP",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 19410432
+ },
+ {
+  "Naam": "Apollo Commercial Real Estate Finance, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 4277857
+ },
+ {
+  "Naam": "Apollo Global Management, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 2102078
+ },
+ {
+  "Naam": "Apollo Swedish Holdco Ab",
+  "Land": "Zweden",
+  "Sector": "Overige industrie",
+  "BelangEur": 9187752
+ },
+ {
+  "Naam": "Apple Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 287006
+ },
+ {
+  "Naam": "Aptiv Irish Holdings Limited",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 16568212
+ },
+ {
+  "Naam": "Aramark",
+  "Land": "Verenigde Staten",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 5203572
+ },
+ {
+  "Naam": "Arch Capital Group Ltd.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 1327021
+ },
+ {
+  "Naam": "Ardagh Metal Packaging S.A.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verpakkingen",
+  "BelangEur": 15725346
+ },
+ {
+  "Naam": "Ardonagh Finco Ltd.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 3746396
+ },
+ {
+  "Naam": "Argentina",
+  "Land": "Argentinie",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 16741905
+ },
+ {
+  "Naam": "Argentum Netherlands B.V.",
+  "Land": "Nederland",
+  "Sector": "Verzekeraars",
+  "BelangEur": 17139337
+ },
+ {
+  "Naam": "Aroundtown",
+  "Land": "Duitsland",
+  "Sector": "Financieel overig",
+  "BelangEur": 6338757
+ },
+ {
+  "Naam": "Aroundtown Finance Sarl",
+  "Land": "Duitsland",
+  "Sector": "Financieel overig",
+  "BelangEur": 2299400
+ },
+ {
+  "Naam": "Aroundtown SA",
+  "Land": "Duitsland",
+  "Sector": "Financieel overig",
+  "BelangEur": 3341694
+ },
+ {
+  "Naam": "Arqiva Group Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Media en entertainment",
+  "BelangEur": 12694287
+ },
+ {
+  "Naam": "Arthur J. Gallagher & Co.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 1055254
+ },
+ {
+  "Naam": "Arçelik Anonim Sirketi",
+  "Land": "Turkije",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 11036100
+ },
+ {
+  "Naam": "Asahi Group Holdings, Ltd.",
+  "Land": "Japan",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 1929317
+ },
+ {
+  "Naam": "Asian Development Bank",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 99444315
+ },
+ {
+  "Naam": "Asmodee Group",
+  "Land": "Zweden",
+  "Sector": "Media en entertainment",
+  "BelangEur": 3090170
+ },
+ {
+  "Naam": "AstraZeneca PLC",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Farmaceutica",
+  "BelangEur": 7836700
+ },
+ {
+  "Naam": "AthenaHealth Group Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 8552704
+ },
+ {
+  "Naam": "Athene Global Funding",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 83956443
+ },
+ {
+  "Naam": "Athora Holding Ltd.",
+  "Land": "Nederland",
+  "Sector": "Verzekeraars",
+  "BelangEur": 10375561
+ },
+ {
+  "Naam": "Atlantic Health System, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 40561
+ },
+ {
+  "Naam": "Atmos Energy Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Aardgas",
+  "BelangEur": 111682
+ },
+ {
+  "Naam": "Auna",
+  "Land": "Peru",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 6152842
+ },
+ {
+  "Naam": "Auna SA",
+  "Land": "Peru",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 4283472
+ },
+ {
+  "Naam": "Ausgrid Group",
+  "Land": "Australie",
+  "Sector": "Elektrisch",
+  "BelangEur": 2687165
+ },
+ {
+  "Naam": "Austria",
+  "Land": "Oostenrijk",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 2440423125
+ },
+ {
+  "Naam": "AutoNation, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 140175
+ },
+ {
+  "Naam": "Autoliv, Inc.",
+  "Land": "Zweden",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 10396460
+ },
+ {
+  "Naam": "AvalonBay Communities, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Appartement Vastgoedfondsen",
+  "BelangEur": 5572933
+ },
+ {
+  "Naam": "Avantor, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 3703417
+ },
+ {
+  "Naam": "Avis Budget Group, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Transportdiensten",
+  "BelangEur": 22967892
+ },
+ {
+  "Naam": "Aviva plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Verzekeraars",
+  "BelangEur": 17642505
+ },
+ {
+  "Naam": "Aydem Holding A.S.",
+  "Land": "Turkije",
+  "Sector": "Elektrisch",
+  "BelangEur": 4790383
+ },
+ {
+  "Naam": "Azelis Group NV",
+  "Land": "Belgie",
+  "Sector": "Chemicaliën",
+  "BelangEur": 665932
+ },
+ {
+  "Naam": "B&G Foods, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 9225986
+ },
+ {
+  "Naam": "B&M European Value Retail S.A.",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Detailhandel",
+  "BelangEur": 1805397
+ },
+ {
+  "Naam": "BBVA Seguros Salud México, S.A. de C.V., Grupo Fin",
+  "Land": "Mexico",
+  "Sector": "Banken",
+  "BelangEur": 62903394
+ },
+ {
+  "Naam": "BC Partners LLP",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 6538593
+ },
+ {
+  "Naam": "BE Semiconductor Industries N.V.",
+  "Land": "Nederland",
+  "Sector": "Technologie",
+  "BelangEur": 15294453
+ },
+ {
+  "Naam": "BHP Group Limited",
+  "Land": "Australie",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 15340327
+ },
+ {
+  "Naam": "BNG Bank N.V.",
+  "Land": "Nederland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 281285206
+ },
+ {
+  "Naam": "BNI (Finance) B.V.",
+  "Land": "Nederland",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 48281432
+ },
+ {
+  "Naam": "BNP Paribas SA",
+  "Land": "Frankrijk",
+  "Sector": "Banken",
+  "BelangEur": 227525939
+ },
+ {
+  "Naam": "BRF S.A.",
+  "Land": "Brazilie",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 5614884
+ },
+ {
+  "Naam": "BT Group plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 88862786
+ },
+ {
+  "Naam": "BWAY Parent Company, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verpakkingen",
+  "BelangEur": 3085842
+ },
+ {
+  "Naam": "BXP, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Kantoor Vastgoedfondsen",
+  "BelangEur": 5219330
+ },
+ {
+  "Naam": "Ball Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Verpakkingen",
+  "BelangEur": 46151405
+ },
+ {
+  "Naam": "Banca Monte dei Paschi di Siena S.p.A.",
+  "Land": "Italie",
+  "Sector": "Banken",
+  "BelangEur": 22378577
+ },
+ {
+  "Naam": "Banca Transilvania S.A.",
+  "Land": "Roemenie",
+  "Sector": "Banken",
+  "BelangEur": 32686918
+ },
+ {
+  "Naam": "Banco BBVA PerÃº",
+  "Land": "Peru",
+  "Sector": "Banken",
+  "BelangEur": 11097332
+ },
+ {
+  "Naam": "Banco Bradesco S.A.",
+  "Land": "Brazilie",
+  "Sector": "Banken",
+  "BelangEur": 2179972
+ },
+ {
+  "Naam": "Banco Comercial PortuguÃªs, S.A.",
+  "Land": "Polen",
+  "Sector": "Banken",
+  "BelangEur": 4049987
+ },
+ {
+  "Naam": "Banco Davivienda S.A.",
+  "Land": "Colombia",
+  "Sector": "Banken",
+  "BelangEur": 6144885
+ },
+ {
+  "Naam": "Banco Do Brasil S.A. (Cayman)",
+  "Land": "Brazilie",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 20095178
+ },
+ {
+  "Naam": "Banco Latinoamericano de Comercio Exterior, S. A.",
+  "Land": "Panama",
+  "Sector": "Overheid gesponsord",
+  "BelangEur": 4537255
+ },
+ {
+  "Naam": "Banco Nacional de Panamá",
+  "Land": "Panama",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 1441116
+ },
+ {
+  "Naam": "Banco Santander, S.A.",
+  "Land": "Spanje",
+  "Sector": "Banken",
+  "BelangEur": 326943804
+ },
+ {
+  "Naam": "Banco de Sabadell, S.A.",
+  "Land": "Spanje",
+  "Sector": "Banken",
+  "BelangEur": 63504065
+ },
+ {
+  "Naam": "Banco del Estado de Chile",
+  "Land": "Chili",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 15509531
+ },
+ {
+  "Naam": "Bangkok Bank Public Company Limited",
+  "Land": "Thailand",
+  "Sector": "Banken",
+  "BelangEur": 53571144
+ },
+ {
+  "Naam": "Bank Gospodarstwa Krajowego",
+  "Land": "Polen",
+  "Sector": "Overheidsgarantie",
+  "BelangEur": 40538561
+ },
+ {
+  "Naam": "Bank Negara Malaysia",
+  "Land": "Maleisie",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 1036896910
+ },
+ {
+  "Naam": "Bank Polska Kasa Opieki S.A.",
+  "Land": "Polen",
+  "Sector": "Banken",
+  "BelangEur": 4876347
+ },
+ {
+  "Naam": "Bank of America Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 147560887
+ },
+ {
+  "Naam": "Bank of Ireland Group plc",
+  "Land": "Ierland",
+  "Sector": "Banken",
+  "BelangEur": 38820801
+ },
+ {
+  "Naam": "Bankinter, S.A.",
+  "Land": "Spanje",
+  "Sector": "Banken",
+  "BelangEur": 3735515
+ },
+ {
+  "Naam": "Barclays PLC",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Banken",
+  "BelangEur": 149443502
+ },
+ {
+  "Naam": "Barry Callebaut AG",
+  "Land": "Belgie",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 2165393
+ },
+ {
+  "Naam": "Bath & Body Works, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 12900831
+ },
+ {
+  "Naam": "Bausch Health",
+  "Land": "Verenigde Staten",
+  "Sector": "Farmaceutica",
+  "BelangEur": 15778359
+ },
+ {
+  "Naam": "Bausch Health Companies Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Farmaceutica",
+  "BelangEur": 13658810
+ },
+ {
+  "Naam": "Bausch+lomb Netherlands B.v.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 1469631
+ },
+ {
+  "Naam": "Bayerische Motoren Werke Aktiengesellschaft",
+  "Land": "Duitsland",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 174445087
+ },
+ {
+  "Naam": "BayernLB Holding AG",
+  "Land": "Duitsland",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 4498340
+ },
+ {
+  "Naam": "Bcpe Ulysses Merger Subordinated LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 4635936
+ },
+ {
+  "Naam": "Beach Acquisition Co Parent, LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 8089352
+ },
+ {
+  "Naam": "Beazer Homes USA, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Woningbouw",
+  "BelangEur": 13562457
+ },
+ {
+  "Naam": "Becton, Dickinson and Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 112263678
+ },
+ {
+  "Naam": "Belden Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 13689788
+ },
+ {
+  "Naam": "Belgium",
+  "Land": "Belgie",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 5029511355
+ },
+ {
+  "Naam": "Bellis Topco Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Supermarkten",
+  "BelangEur": 17219497
+ },
+ {
+  "Naam": "Belrose Funding Trust II",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 1525001
+ },
+ {
+  "Naam": "Benteler International AG",
+  "Land": "Oostenrijk",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 2908257
+ },
+ {
+  "Naam": "Best Secret Group AG",
+  "Land": "Duitsland",
+  "Sector": "Detailhandel",
+  "BelangEur": 3247863
+ },
+ {
+  "Naam": "Bharti Airtel Limited",
+  "Land": "India",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 36687228
+ },
+ {
+  "Naam": "Bicapital Corporation",
+  "Land": "Panama",
+  "Sector": "Banken",
+  "BelangEur": 8170140
+ },
+ {
+  "Naam": "Bioceanico Sovereign Certificate Ltd",
+  "Land": "Paraguay",
+  "Sector": "Overheid gesponsord",
+  "BelangEur": 5552860
+ },
+ {
+  "Naam": "Biocon Biologics Global PLC",
+  "Land": "India",
+  "Sector": "Farmaceutica",
+  "BelangEur": 512276
+ },
+ {
+  "Naam": "BlackRock",
+  "Land": "Verenigde Staten",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 42670
+ },
+ {
+  "Naam": "Block, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 12071346
+ },
+ {
+  "Naam": "Boels Topholding B.V.",
+  "Land": "Nederland",
+  "Sector": "Bouwmachines",
+  "BelangEur": 3524294
+ },
+ {
+  "Naam": "Booking Holdings Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 81128383
+ },
+ {
+  "Naam": "Boots Group Finco L.P.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 11080682
+ },
+ {
+  "Naam": "Boston Scientific Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 106077260
+ },
+ {
+  "Naam": "Bouygues SA",
+  "Land": "Frankrijk",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 13623996
+ },
+ {
+  "Naam": "Brambles Limited",
+  "Land": "Australie",
+  "Sector": "Transportdiensten",
+  "BelangEur": 59541352
+ },
+ {
+  "Naam": "Brinker International, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Restaurants",
+  "BelangEur": 8966512
+ },
+ {
+  "Naam": "Bristol-Myers Squibb Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Farmaceutica",
+  "BelangEur": 3010869
+ },
+ {
+  "Naam": "Brixmor Property Group Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Winkel Vastgoedfondsen",
+  "BelangEur": 488115
+ },
+ {
+  "Naam": "Broadcom Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 11293607
+ },
+ {
+  "Naam": "Broadridge Financial Solutions, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 2212544
+ },
+ {
+  "Naam": "Broadstone Net Lease, LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 3588944
+ },
+ {
+  "Naam": "Brookfield Residential Properties ULC",
+  "Land": "Canada",
+  "Sector": "Woningbouw",
+  "BelangEur": 9637947
+ },
+ {
+  "Naam": "Brookfield Wealth Solutions Ltd.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 2083884
+ },
+ {
+  "Naam": "Bubbles Bidco S.p.A.",
+  "Land": "Italie",
+  "Sector": "Detailhandel",
+  "BelangEur": 3431184
+ },
+ {
+  "Naam": "Buffalo Energy Mexico Holdings, S.A. de C.V.",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Elektrisch",
+  "BelangEur": 1686608
+ },
+ {
+  "Naam": "Builders FirstSource, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 15775906
+ },
+ {
+  "Naam": "Bunzl",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 959185
+ },
+ {
+  "Naam": "Bureau Veritas SA",
+  "Land": "Frankrijk",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 599344
+ },
+ {
+  "Naam": "CA Sebright Investments",
+  "Land": "Mauritius",
+  "Sector": "Technologie",
+  "BelangEur": 3790478
+ },
+ {
+  "Naam": "CAB Société d'exercice libéral par actions simplif",
+  "Land": "Frankrijk",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 8478832
+ },
+ {
+  "Naam": "CARNELIAN PT HOLDINGS LP",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 13905
+ },
+ {
+  "Naam": "CBR Fashion Holding AG",
+  "Land": "Duitsland",
+  "Sector": "Detailhandel",
+  "BelangEur": 5782359
+ },
+ {
+  "Naam": "CBRE",
+  "Land": "Luxemburg",
+  "Sector": "Financieel overig",
+  "BelangEur": 40688465
+ },
+ {
+  "Naam": "CBRE Group",
+  "Land": "Luxemburg",
+  "Sector": "Financieel overig",
+  "BelangEur": 25905276
+ },
+ {
+  "Naam": "CCEP Finance (Ireland) Designated Activity Company",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 8849036
+ },
+ {
+  "Naam": "CD&R Smokey Buyer Inc / Radio Systems Corp",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 4740814
+ },
+ {
+  "Naam": "CDW Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 2036157
+ },
+ {
+  "Naam": "CEC Bank S.A.",
+  "Land": "Roemenie",
+  "Sector": "Banken",
+  "BelangEur": 5636325
+ },
+ {
+  "Naam": "CEMEX, S.A.B. de C.V.",
+  "Land": "Mexico",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 52031662
+ },
+ {
+  "Naam": "CF Group Management, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 1507444
+ },
+ {
+  "Naam": "CFE Fibra E",
+  "Land": "Mexico",
+  "Sector": "Elektrisch",
+  "BelangEur": 981826
+ },
+ {
+  "Naam": "CHEPLAPHARM Arzneimittel GmbH",
+  "Land": "Duitsland",
+  "Sector": "Farmaceutica",
+  "BelangEur": 22604929
+ },
+ {
+  "Naam": "CIBANCO, S.A., Instituc de Banca Múltiple, Trust F",
+  "Land": "Mexico",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 8717266
+ },
+ {
+  "Naam": "CK Hutchison Holdings Limited",
+  "Land": "Kaaimaneilanden",
+  "Sector": "Overige industrie",
+  "BelangEur": 35535727
+ },
+ {
+  "Naam": "CMG Media Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Media en entertainment",
+  "BelangEur": 5099249
+ },
+ {
+  "Naam": "COPT Defense Properties, L.P.",
+  "Land": "Verenigde Staten",
+  "Sector": "Kantoor Vastgoedfondsen",
+  "BelangEur": 1796718
+ },
+ {
+  "Naam": "CP Atlas Buyer, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 3291278
+ },
+ {
+  "Naam": "CPI Property Group",
+  "Land": "Tsjechie",
+  "Sector": "Financieel overig",
+  "BelangEur": 51367302
+ },
+ {
+  "Naam": "CRH plc",
+  "Land": "Ierland",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 79543948
+ },
+ {
+  "Naam": "CSL Limited",
+  "Land": "Australie",
+  "Sector": "Farmaceutica",
+  "BelangEur": 2178918
+ },
+ {
+  "Naam": "CSX Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Spoorwegen",
+  "BelangEur": 1809939
+ },
+ {
+  "Naam": "CT Trust",
+  "Land": "Guatemala",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 38023814
+ },
+ {
+  "Naam": "CVS Health Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 45201047
+ },
+ {
+  "Naam": "Cable One, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 6626601
+ },
+ {
+  "Naam": "Caisse des Dépôts et Consignations",
+  "Land": "Frankrijk",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 4245826
+ },
+ {
+  "Naam": "CaixaBank, S.A.",
+  "Land": "Spanje",
+  "Sector": "Banken",
+  "BelangEur": 83111572
+ },
+ {
+  "Naam": "California Buyer Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Elektrisch",
+  "BelangEur": 28288760
+ },
+ {
+  "Naam": "California Institute of Technology",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 13934
+ },
+ {
+  "Naam": "Camelot Return Holdings, LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 8155169
+ },
+ {
+  "Naam": "Canadian Imperial Bank of Commerce",
+  "Land": "Canada",
+  "Sector": "Banken",
+  "BelangEur": 5228359
+ },
+ {
+  "Naam": "Canadian Pacific Kansas City Limited",
+  "Land": "Canada",
+  "Sector": "Spoorwegen",
+  "BelangEur": 1582996
+ },
+ {
+  "Naam": "Capital One Financial Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 23235134
+ },
+ {
+  "Naam": "Carlsberg A/S",
+  "Land": "Denemarken",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 45021574
+ },
+ {
+  "Naam": "Carraun Telecom Holdings Limited",
+  "Land": "Ierland",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 7711712
+ },
+ {
+  "Naam": "Carrier Global Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 122651290
+ },
+ {
+  "Naam": "Carvana Co.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 15749585
+ },
+ {
+  "Naam": "Cascades Inc.",
+  "Land": "Canada",
+  "Sector": "Papier",
+  "BelangEur": 1030654
+ },
+ {
+  "Naam": "Castle Builder Topco Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Woningbouw",
+  "BelangEur": 11211157
+ },
+ {
+  "Naam": "Cd&R Firefly Holdings S.à R.L.",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Detailhandel",
+  "BelangEur": 25940953
+ },
+ {
+  "Naam": "Celanese Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Chemicaliën",
+  "BelangEur": 27900858
+ },
+ {
+  "Naam": "Cellnex Telecom, S.A.",
+  "Land": "Spanje",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 34951935
+ },
+ {
+  "Naam": "Centene Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Zorgverzekering",
+  "BelangEur": 15934254
+ },
+ {
+  "Naam": "Central Parent LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 3822372
+ },
+ {
+  "Naam": "Centrica plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Aardgas",
+  "BelangEur": 1389217
+ },
+ {
+  "Naam": "Centrient Holding B.V.",
+  "Land": "Nederland",
+  "Sector": "Farmaceutica",
+  "BelangEur": 7622739
+ },
+ {
+  "Naam": "Centurion Newco S.P.A.",
+  "Land": "Italie",
+  "Sector": "Technologie",
+  "BelangEur": 4289141
+ },
+ {
+  "Naam": "Ceské dráhy, a.s.",
+  "Land": "Tsjechie",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 26677904
+ },
+ {
+  "Naam": "Champions Financing, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 2281728
+ },
+ {
+  "Naam": "Chart Industries, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 18210248
+ },
+ {
+  "Naam": "Charter Communications, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 99069752
+ },
+ {
+  "Naam": "Chile",
+  "Land": "Chili",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 317432722
+ },
+ {
+  "Naam": "Chile Electricity Lux Mpc Ii S.A.R.L.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overheid gesponsord",
+  "BelangEur": 9276237
+ },
+ {
+  "Naam": "Chile Electricity Lux Mpc S.A R.L.",
+  "Land": "Chili",
+  "Sector": "Overheidsgarantie",
+  "BelangEur": 9159964
+ },
+ {
+  "Naam": "Chivatos S.A.",
+  "Land": "Paraguay",
+  "Sector": "Banken",
+  "BelangEur": 5519663
+ },
+ {
+  "Naam": "Chobani Holdco II LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 6331561
+ },
+ {
+  "Naam": "Chobani Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 7920956
+ },
+ {
+  "Naam": "Chubb Limited",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 2851558
+ },
+ {
+  "Naam": "Cimpress Public Limited Company",
+  "Land": "Ierland",
+  "Sector": "Media en entertainment",
+  "BelangEur": 5820577
+ },
+ {
+  "Naam": "Ciner Group",
+  "Land": "Turkije",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 38185096
+ },
+ {
+  "Naam": "Cinven Partnership Llp",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 2669232
+ },
+ {
+  "Naam": "Citigroup Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 31081791
+ },
+ {
+  "Naam": "Clarios International Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 32722786
+ },
+ {
+  "Naam": "Claritev Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 4808613
+ },
+ {
+  "Naam": "Clarivate Plc",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 1152740
+ },
+ {
+  "Naam": "Clean Harbors, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Milieu",
+  "BelangEur": 12796401
+ },
+ {
+  "Naam": "Clean Renewable Power (Mauritius) Pte. Ltd.",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Elektrisch",
+  "BelangEur": 16908878
+ },
+ {
+  "Naam": "Clearwater Paper Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Papier",
+  "BelangEur": 1143300
+ },
+ {
+  "Naam": "Cleveland-Cliffs Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 6450422
+ },
+ {
+  "Naam": "Cloud Peak Energy Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 7660
+ },
+ {
+  "Naam": "Cloud Software Group Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 4790569
+ },
+ {
+  "Naam": "Clydesdale Acquisition Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verpakkingen",
+  "BelangEur": 14824214
+ },
+ {
+  "Naam": "Coca-Cola Europacific Partners PLC",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 77256473
+ },
+ {
+  "Naam": "Coca-Cola FEMSA, S.A.B. de C.V.",
+  "Land": "Mexico",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 9860571
+ },
+ {
+  "Naam": "Coca-Cola HBC AG",
+  "Land": "Italie",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 20400505
+ },
+ {
+  "Naam": "Cofinimmo SA",
+  "Land": "Belgie",
+  "Sector": "Gezondheidszorg Vastgoedfondsen",
+  "BelangEur": 1510624
+ },
+ {
+  "Naam": "Cogent Comm Holdings",
+  "Land": "Verenigde Staten",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 11002161
+ },
+ {
+  "Naam": "Colakoglu Metalurji A.S.",
+  "Land": "Turkije",
+  "Sector": "Banken",
+  "BelangEur": 1337956
+ },
+ {
+  "Naam": "Colbún S.A.",
+  "Land": "Chili",
+  "Sector": "Elektrisch",
+  "BelangEur": 10449663
+ },
+ {
+  "Naam": "Colombia",
+  "Land": "Colombia",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 47997476
+ },
+ {
+  "Naam": "Coloplast A/S",
+  "Land": "Denemarken",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 4341086
+ },
+ {
+  "Naam": "Comcast Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 114078625
+ },
+ {
+  "Naam": "Comerica Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 1520041
+ },
+ {
+  "Naam": "Comisión Federal de Electricidad",
+  "Land": "Mexico",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 14369408
+ },
+ {
+  "Naam": "CommScope Holding Company, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 7204161
+ },
+ {
+  "Naam": "Commercial Metals Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 3460477
+ },
+ {
+  "Naam": "Commercial Trailer Leasing, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Transportdiensten",
+  "BelangEur": 2651498
+ },
+ {
+  "Naam": "Commerzbank AG",
+  "Land": "Duitsland",
+  "Sector": "Banken",
+  "BelangEur": 202850304
+ },
+ {
+  "Naam": "Commonwealth Bank of Australia",
+  "Land": "Australie",
+  "Sector": "Banken",
+  "BelangEur": 9932151
+ },
+ {
+  "Naam": "Community Health Systems, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 22763233
+ },
+ {
+  "Naam": "Compagnie de Saint-Gobain S.A.",
+  "Land": "Frankrijk",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 73098691
+ },
+ {
+  "Naam": "Consolidated Edison, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 140601
+ },
+ {
+  "Naam": "Constellation Energy Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 1037235
+ },
+ {
+  "Naam": "Constellium SE",
+  "Land": "Verenigde Staten",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 14481583
+ },
+ {
+  "Naam": "Continuum Energy Pte. Ltd.",
+  "Land": "India",
+  "Sector": "Elektrisch",
+  "BelangEur": 6528914
+ },
+ {
+  "Naam": "Continuum Green Energy",
+  "Land": "India",
+  "Sector": "Elektrisch",
+  "BelangEur": 29190121
+ },
+ {
+  "Naam": "ContourGlobal Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Elektrisch",
+  "BelangEur": 7991161
+ },
+ {
+  "Naam": "Control Empresarial de Capitales SA de CV",
+  "Land": "Spanje",
+  "Sector": "Milieu",
+  "BelangEur": 98838606
+ },
+ {
+  "Naam": "ConvaTec Group PLC",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 9234410
+ },
+ {
+  "Naam": "CoreWeave, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 22744325
+ },
+ {
+  "Naam": "Corebridge Financial, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 451591
+ },
+ {
+  "Naam": "Cornerstone Building Brands, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 3472338
+ },
+ {
+  "Naam": "Corporación Andina de Fomento (CAF)",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 117466687
+ },
+ {
+  "Naam": "Costa Rica",
+  "Land": "Costa Rica",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 5801156
+ },
+ {
+  "Naam": "Council of Europe Development Bank",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 50730018
+ },
+ {
+  "Naam": "Coventry Building Society",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Banken",
+  "BelangEur": 2561215
+ },
+ {
+  "Naam": "Covivio Hotels",
+  "Land": "Frankrijk",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 1239397
+ },
+ {
+  "Naam": "Cox Enterprises, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 7269088
+ },
+ {
+  "Naam": "Coöperatieve Rabobank U.A.",
+  "Land": "Nederland",
+  "Sector": "Banken",
+  "BelangEur": 11295344
+ },
+ {
+  "Naam": "Credicorp Ltd.",
+  "Land": "Peru",
+  "Sector": "Banken",
+  "BelangEur": 34557766
+ },
+ {
+  "Naam": "CrelanCo C.V.B.A.",
+  "Land": "Belgie",
+  "Sector": "Banken",
+  "BelangEur": 112031839
+ },
+ {
+  "Naam": "Crown Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verpakkingen",
+  "BelangEur": 44214590
+ },
+ {
+  "Naam": "Crédit Mutuel Group",
+  "Land": "Frankrijk",
+  "Sector": "Banken",
+  "BelangEur": 219440724
+ },
+ {
+  "Naam": "Custom Truck One Source, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmachines",
+  "BelangEur": 4552505
+ },
+ {
+  "Naam": "Czech Gas Network S.à r.l.",
+  "Land": "Luxemburg",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 7490538
+ },
+ {
+  "Naam": "Czech Republic",
+  "Land": "Tsjechie",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 19644625
+ },
+ {
+  "Naam": "Cámara Chilena de la Construcción",
+  "Land": "Chili",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 5273592
+ },
+ {
+  "Naam": "D.R. Horton, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Woningbouw",
+  "BelangEur": 9523914
+ },
+ {
+  "Naam": "DCLI BIDCO LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Transportdiensten",
+  "BelangEur": 1808377
+ },
+ {
+  "Naam": "DIRECTV Entertainment Holdings LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 3906456
+ },
+ {
+  "Naam": "DISH Network Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 10331026
+ },
+ {
+  "Naam": "DKT Holdings ApS",
+  "Land": "Denemarken",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 33778378
+ },
+ {
+  "Naam": "DNB Bank ASA",
+  "Land": "Noorwegen",
+  "Sector": "Banken",
+  "BelangEur": 3622619
+ },
+ {
+  "Naam": "DS Smith Plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Verpakkingen",
+  "BelangEur": 18200065
+ },
+ {
+  "Naam": "DSM-Firmenich AG",
+  "Land": "Nederland",
+  "Sector": "Chemicaliën",
+  "BelangEur": 2048338
+ },
+ {
+  "Naam": "DSV A/S",
+  "Land": "Denemarken",
+  "Sector": "Transportdiensten",
+  "BelangEur": 107738057
+ },
+ {
+  "Naam": "DaVita Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 29709204
+ },
+ {
+  "Naam": "Daimler Truck Holding AG",
+  "Land": "Duitsland",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 1130051
+ },
+ {
+  "Naam": "Dana Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 24972492
+ },
+ {
+  "Naam": "Danaher Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 118568546
+ },
+ {
+  "Naam": "Danone S.A.",
+  "Land": "Frankrijk",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 93043080
+ },
+ {
+  "Naam": "Danske Bank A/S",
+  "Land": "Denemarken",
+  "Sector": "Banken",
+  "BelangEur": 78433347
+ },
+ {
+  "Naam": "Darling Ingredients Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 32837801
+ },
+ {
+  "Naam": "Deere & Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmachines",
+  "BelangEur": 4695185
+ },
+ {
+  "Naam": "Delta Air Lines, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Luchtvaartmaatschappijen",
+  "BelangEur": 1489900
+ },
+ {
+  "Naam": "Design Holding S.p.A.",
+  "Land": "Italie",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 1851091
+ },
+ {
+  "Naam": "Desjardins Group",
+  "Land": "Canada",
+  "Sector": "Banken",
+  "BelangEur": 300804
+ },
+ {
+  "Naam": "Deuce Holdco Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Vrije tijd",
+  "BelangEur": 8365449
+ },
+ {
+  "Naam": "Deutsche Bank Aktiengesellschaft",
+  "Land": "Duitsland",
+  "Sector": "Banken",
+  "BelangEur": 205675787
+ },
+ {
+  "Naam": "Deutsche Börse AG",
+  "Land": "Duitsland",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 2477626
+ },
+ {
+  "Naam": "Development Bank of the Philippines",
+  "Land": "Filipijnen",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 8227273
+ },
+ {
+  "Naam": "Diageo plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 2559688
+ },
+ {
+  "Naam": "Digi Communications N.V.",
+  "Land": "Roemenie",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 28936251
+ },
+ {
+  "Naam": "Digicel International",
+  "Land": "Jamaica",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 8102928
+ },
+ {
+  "Naam": "Digital Dutch Finco B.V.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 20209772
+ },
+ {
+  "Naam": "Digital Intrepid Holding B.V.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 4620756
+ },
+ {
+  "Naam": "Direction GÃ©nÃ©rale du TrÃ©sor",
+  "Land": "Frankrijk",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 13938959090
+ },
+ {
+  "Naam": "Dolcetto Holdco S.P.A.",
+  "Land": "Italie",
+  "Sector": "Farmaceutica",
+  "BelangEur": 2570009
+ },
+ {
+  "Naam": "Dometic Group AB (publ)",
+  "Land": "Zweden",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 1308349
+ },
+ {
+  "Naam": "Dominican Republic",
+  "Land": "Dominicaanse Republiek",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 39412436
+ },
+ {
+  "Naam": "Dominion Energy, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 5345988
+ },
+ {
+  "Naam": "Dow Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Chemicaliën",
+  "BelangEur": 4407803
+ },
+ {
+  "Naam": "Duke Energy Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 15516870
+ },
+ {
+  "Naam": "Duke University",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 87152
+ },
+ {
+  "Naam": "E. Abaroa Foundation",
+  "Land": "Chili",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 13689789
+ },
+ {
+  "Naam": "E. Merck KG",
+  "Land": "Duitsland",
+  "Sector": "Farmaceutica",
+  "BelangEur": 3957177
+ },
+ {
+  "Naam": "E.ON SE",
+  "Land": "Duitsland",
+  "Sector": "Elektrisch",
+  "BelangEur": 52775138
+ },
+ {
+  "Naam": "E.P. Investments S.à R.L.",
+  "Land": "Tsjechie",
+  "Sector": "Aardgas",
+  "BelangEur": 19435497
+ },
+ {
+  "Naam": "EDP, S.A.",
+  "Land": "Portugal",
+  "Sector": "Elektrisch",
+  "BelangEur": 182684836
+ },
+ {
+  "Naam": "ELM BV for Swiss Prime Site AG",
+  "Land": "Zwitserland",
+  "Sector": "Financieel overig",
+  "BelangEur": 793517
+ },
+ {
+  "Naam": "EMRLD Borrower LP / Emerald Co-Issuer Inc",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 25205147
+ },
+ {
+  "Naam": "ENN Clean Energy International Investment Limited",
+  "Land": "China",
+  "Sector": "Aardgas",
+  "BelangEur": 3500191
+ },
+ {
+  "Naam": "ENN Energy Holdings Limited",
+  "Land": "Kaaimaneilanden",
+  "Sector": "Aardgas",
+  "BelangEur": 8414365
+ },
+ {
+  "Naam": "EP Investments",
+  "Land": "Tsjechie",
+  "Sector": "Elektrisch",
+  "BelangEur": 26241994
+ },
+ {
+  "Naam": "EQT AB (publ)",
+  "Land": "Zweden",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 7874308
+ },
+ {
+  "Naam": "ESAB Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 3594719
+ },
+ {
+  "Naam": "East Japan Railway Company",
+  "Land": "Japan",
+  "Sector": "Spoorwegen",
+  "BelangEur": 7224164
+ },
+ {
+  "Naam": "EchoStar Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Niet gespecificeerd",
+  "BelangEur": 11680726
+ },
+ {
+  "Naam": "Ecobank Transnational Incorporated",
+  "Land": "Togo",
+  "Sector": "Banken",
+  "BelangEur": 3773814
+ },
+ {
+  "Naam": "Econet Wireless Zimbabwe Limited",
+  "Land": "Mauritius",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 5980473
+ },
+ {
+  "Naam": "Edgewell Personal Care Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 9686103
+ },
+ {
+  "Naam": "Edison International",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 3001975
+ },
+ {
+  "Naam": "Edizione S.p.A.",
+  "Land": "Italie",
+  "Sector": "Transportdiensten",
+  "BelangEur": 89758364
+ },
+ {
+  "Naam": "Eesti Energia AS",
+  "Land": "Estland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 5572161
+ },
+ {
+  "Naam": "Eiffage SA",
+  "Land": "Frankrijk",
+  "Sector": "Transportdiensten",
+  "BelangEur": 102042660
+ },
+ {
+  "Naam": "Ejlshm Funding Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 10282176
+ },
+ {
+  "Naam": "El Aguila Limited",
+  "Land": "Mexico",
+  "Sector": "Elektrisch",
+  "BelangEur": 5852529
+ },
+ {
+  "Naam": "Elect Global Investments Limited",
+  "Land": "Hongkong",
+  "Sector": "Financieel overig",
+  "BelangEur": 1763787
+ },
+ {
+  "Naam": "Electricity Supply Board",
+  "Land": "Ierland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 30708656
+ },
+ {
+  "Naam": "Electricité de France S.A.",
+  "Land": "Frankrijk",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 243423953
+ },
+ {
+  "Naam": "Electronic Arts Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Media en entertainment",
+  "BelangEur": 969462
+ },
+ {
+  "Naam": "Elevance Health, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Zorgverzekering",
+  "BelangEur": 2074168
+ },
+ {
+  "Naam": "Eli Lilly and Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Farmaceutica",
+  "BelangEur": 6316300
+ },
+ {
+  "Naam": "Elia Group SA/NV",
+  "Land": "Duitsland",
+  "Sector": "Elektrisch",
+  "BelangEur": 155149369
+ },
+ {
+  "Naam": "Elior Group SA",
+  "Land": "Frankrijk",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 683962
+ },
+ {
+  "Naam": "Elisa Oyj",
+  "Land": "Finland",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 4883898
+ },
+ {
+  "Naam": "Empresa General de Inversiones, S.A.",
+  "Land": "Panama",
+  "Sector": "Banken",
+  "BelangEur": 7039545
+ },
+ {
+  "Naam": "Empresa de Transporte de Pasajeros Metro S.A.",
+  "Land": "Chili",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 11501507
+ },
+ {
+  "Naam": "Empresa de los Ferrocarriles del Estado",
+  "Land": "Chili",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 5126173
+ },
+ {
+  "Naam": "Empresas CMPC S.A.",
+  "Land": "Chili",
+  "Sector": "Papier",
+  "BelangEur": 40118666
+ },
+ {
+  "Naam": "Empresas Juan Yarur SpA",
+  "Land": "Chili",
+  "Sector": "Banken",
+  "BelangEur": 12250804
+ },
+ {
+  "Naam": "Empresas Públicas de Medellín E.S.P.",
+  "Land": "Colombia",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 9327865
+ },
+ {
+  "Naam": "EnBW Energie Baden-Württemberg AG",
+  "Land": "Duitsland",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 109385923
+ },
+ {
+  "Naam": "Encompass Health Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 10531248
+ },
+ {
+  "Naam": "Enel SpA",
+  "Land": "Italie",
+  "Sector": "Elektrisch",
+  "BelangEur": 249663355
+ },
+ {
+  "Naam": "EnerSys",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 10135897
+ },
+ {
+  "Naam": "Energizer Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 26836086
+ },
+ {
+  "Naam": "Energuate Trust 20",
+  "Land": "Guatemala",
+  "Sector": "Elektrisch",
+  "BelangEur": 3088765
+ },
+ {
+  "Naam": "Engie SA",
+  "Land": "Frankrijk",
+  "Sector": "Aardgas",
+  "BelangEur": 203843917
+ },
+ {
+  "Naam": "Ephios Subco 3 S.A R.L.",
+  "Land": "Luxemburg",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 5634538
+ },
+ {
+  "Naam": "Equifax Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 346626
+ },
+ {
+  "Naam": "Equinix Europe 2 Financing Corporation LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 17696677
+ },
+ {
+  "Naam": "Equinix, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 4847905
+ },
+ {
+  "Naam": "Erste Group Bank AG",
+  "Land": "Oostenrijk",
+  "Sector": "Banken",
+  "BelangEur": 45483220
+ },
+ {
+  "Naam": "Ervia",
+  "Land": "Ierland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 1239104
+ },
+ {
+  "Naam": "Esentia Gas Enterprises S. de R.L. de C.V.",
+  "Land": "Mexico",
+  "Sector": "Energietransport en verwerking",
+  "BelangEur": 22855215
+ },
+ {
+  "Naam": "Essendi S.A.",
+  "Land": "Luxemburg",
+  "Sector": "Logies",
+  "BelangEur": 37965732
+ },
+ {
+  "Naam": "Eurobank Ergasias Services and Holdings S.A.",
+  "Land": "Griekenland",
+  "Sector": "Banken",
+  "BelangEur": 83563527
+ },
+ {
+  "Naam": "Eurofins Scientific SE",
+  "Land": "Luxemburg",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 5904987
+ },
+ {
+  "Naam": "European Bank for Reconstruction and Development",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 111741332
+ },
+ {
+  "Naam": "European Investment Bank",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 981337687
+ },
+ {
+  "Naam": "European Union",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 4250852992
+ },
+ {
+  "Naam": "Eutelsat Communications S.A.",
+  "Land": "Frankrijk",
+  "Sector": "Niet gespecificeerd",
+  "BelangEur": 2494927
+ },
+ {
+  "Naam": "Everest Group, Ltd.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 2007763
+ },
+ {
+  "Naam": "Eversource Energy",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 2018993
+ },
+ {
+  "Naam": "Exelon Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 2523359
+ },
+ {
+  "Naam": "Experian plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Technologie",
+  "BelangEur": 2259366
+ },
+ {
+  "Naam": "Export-Import Bank of India",
+  "Land": "India",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 17904821
+ },
+ {
+  "Naam": "FGP Topco Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Transportdiensten",
+  "BelangEur": 15305253
+ },
+ {
+  "Naam": "Fairfax Financial Holdings Limited",
+  "Land": "Canada",
+  "Sector": "Verzekeraars",
+  "BelangEur": 3058786
+ },
+ {
+  "Naam": "Falabella S.A.",
+  "Land": "Chili",
+  "Sector": "Detailhandel",
+  "BelangEur": 7084882
+ },
+ {
+  "Naam": "Fastighets AB Balder (publ)",
+  "Land": "Duitsland",
+  "Sector": "Financieel overig",
+  "BelangEur": 1456708
+ },
+ {
+  "Naam": "FedEx Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Transportdiensten",
+  "BelangEur": 1278434
+ },
+ {
+  "Naam": "Federal Holding and Investment Company",
+  "Land": "Belgie",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 33497362
+ },
+ {
+  "Naam": "FiberCop S.p.A.",
+  "Land": "Verenigde Staten",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 28132745
+ },
+ {
+  "Naam": "Fibra UNO",
+  "Land": "Mexico",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 9317410
+ },
+ {
+  "Naam": "Fideicomiso NÃºmero F/1410",
+  "Land": "Mexico",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 5878880
+ },
+ {
+  "Naam": "Fidelity National Information Services, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 1447254
+ },
+ {
+  "Naam": "Fiesta Purchaser, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 9841877
+ },
+ {
+  "Naam": "Fifth Third Bancorp",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 360615
+ },
+ {
+  "Naam": "Fingrid Oyj",
+  "Land": "Finland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 766744
+ },
+ {
+  "Naam": "Finland",
+  "Land": "Finland",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 1128902296
+ },
+ {
+  "Naam": "First HoldCo Plc",
+  "Land": "Nigeria",
+  "Sector": "Banken",
+  "BelangEur": 3993428
+ },
+ {
+  "Naam": "First Quantum Minerals Ltd.",
+  "Land": "Zambia",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 45194799
+ },
+ {
+  "Naam": "FirstEnergy Corp.",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 21465
+ },
+ {
+  "Naam": "Fiserv",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 3238000
+ },
+ {
+  "Naam": "Fiserv, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 5515977
+ },
+ {
+  "Naam": "Flamingo Lux II GP S.à r.l.",
+  "Land": "Frankrijk",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 4339852
+ },
+ {
+  "Naam": "Flemish Community",
+  "Land": "Belgie",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 33628395
+ },
+ {
+  "Naam": "Flora Acquisition B.V.",
+  "Land": "Nederland",
+  "Sector": "Banken",
+  "BelangEur": 2341643
+ },
+ {
+  "Naam": "Flora Food Global",
+  "Land": "Nederland",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 3486089
+ },
+ {
+  "Naam": "Flowers Foods, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 2181789
+ },
+ {
+  "Naam": "Fluvius System Operator CV",
+  "Land": "Belgie",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 105645653
+ },
+ {
+  "Naam": "Flying Company Limited",
+  "Land": "China",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 9065897
+ },
+ {
+  "Naam": "Fondo Nacional de Financia de la Actv Empresar del",
+  "Land": "Peru",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 16628433
+ },
+ {
+  "Naam": "Ford Motor Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 57768339
+ },
+ {
+  "Naam": "Forenet Kredit f.m.b.a",
+  "Land": "Denemarken",
+  "Sector": "Banken",
+  "BelangEur": 2469665
+ },
+ {
+  "Naam": "Fortescue Ltd",
+  "Land": "Australie",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 58993136
+ },
+ {
+  "Naam": "Fortis Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 158367
+ },
+ {
+  "Naam": "Fortress Intermediate 3, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 1322687
+ },
+ {
+  "Naam": "Fortum Oyj",
+  "Land": "Finland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 43785947
+ },
+ {
+  "Naam": "Forvia SE",
+  "Land": "Frankrijk",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 40579986
+ },
+ {
+  "Naam": "Forward Air",
+  "Land": "Verenigde Staten",
+  "Sector": "Transportdiensten",
+  "BelangEur": 6250022
+ },
+ {
+  "Naam": "Fosun International Holdings Ltd.",
+  "Land": "China",
+  "Sector": "Overige industrie",
+  "BelangEur": 8466036
+ },
+ {
+  "Naam": "Foundation Building Materials, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 3007662
+ },
+ {
+  "Naam": "Foundry JV Holdco LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 1798003
+ },
+ {
+  "Naam": "Fox Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Media en entertainment",
+  "BelangEur": 1527010
+ },
+ {
+  "Naam": "Fredensborg AS",
+  "Land": "Zweden",
+  "Sector": "Financieel overig",
+  "BelangEur": 29805279
+ },
+ {
+  "Naam": "Freedom Mortgage Holdings LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 7077118
+ },
+ {
+  "Naam": "Fresenius Medical Care AG",
+  "Land": "Duitsland",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 6770270
+ },
+ {
+  "Naam": "Fresenius SE & Co. KGaA",
+  "Land": "Duitsland",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 44002453
+ },
+ {
+  "Naam": "Fressnapf Holding SE",
+  "Land": "Duitsland",
+  "Sector": "Detailhandel",
+  "BelangEur": 5968662
+ },
+ {
+  "Naam": "Froneri Lux Topco S.Ã  r.l.",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 4060273
+ },
+ {
+  "Naam": "Frontier Communications Parent, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 17051578
+ },
+ {
+  "Naam": "Fundacion Mapfre",
+  "Land": "Spanje",
+  "Sector": "Verzekeraars",
+  "BelangEur": 8967545
+ },
+ {
+  "Naam": "GA Global Funding Trust",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 20154182
+ },
+ {
+  "Naam": "GDZ Elektrik Dagitim A.S.",
+  "Land": "Turkije",
+  "Sector": "Elektrisch",
+  "BelangEur": 1255211
+ },
+ {
+  "Naam": "GE HealthCare Technologies Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 1514413
+ },
+ {
+  "Naam": "GFL Environmental Inc.",
+  "Land": "Canada",
+  "Sector": "Milieu",
+  "BelangEur": 4061425
+ },
+ {
+  "Naam": "GIC Infra Holdings Pte. Ltd.",
+  "Land": "Singapore",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 26980482
+ },
+ {
+  "Naam": "GMR Airports Limited",
+  "Land": "India",
+  "Sector": "Transportdiensten",
+  "BelangEur": 46097730
+ },
+ {
+  "Naam": "GNL Quintero S.A.",
+  "Land": "Chili",
+  "Sector": "Energietransport en verwerking",
+  "BelangEur": 16576182
+ },
+ {
+  "Naam": "GRÜNENTHAL PHARMA GMBH & CO. KG",
+  "Land": "Duitsland",
+  "Sector": "Niet gespecificeerd",
+  "BelangEur": 38585032
+ },
+ {
+  "Naam": "GSK plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Farmaceutica",
+  "BelangEur": 59830849
+ },
+ {
+  "Naam": "GTCR W-2 Merger Sub LLC",
+  "Land": "Nederland",
+  "Sector": "Technologie",
+  "BelangEur": 18196720
+ },
+ {
+  "Naam": "Garrett Motion",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 1517577
+ },
+ {
+  "Naam": "Gem Acquisition Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 275554
+ },
+ {
+  "Naam": "Gen Digital Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 13385032
+ },
+ {
+  "Naam": "General Motors Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 21652735
+ },
+ {
+  "Naam": "Genneia SA",
+  "Land": "Argentinie",
+  "Sector": "Elektrisch",
+  "BelangEur": 2256540
+ },
+ {
+  "Naam": "Genpact Limited",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 2494743
+ },
+ {
+  "Naam": "Georgetown University",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 99638
+ },
+ {
+  "Naam": "Georgia Global Utilities Jsc",
+  "Land": "Georgie",
+  "Sector": "Overige nutsbedrijven",
+  "BelangEur": 6804439
+ },
+ {
+  "Naam": "Germany",
+  "Land": "Duitsland",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 23262251350
+ },
+ {
+  "Naam": "Getlink SE",
+  "Land": "Frankrijk",
+  "Sector": "Spoorwegen",
+  "BelangEur": 3721577
+ },
+ {
+  "Naam": "Gewobag Wohnungsbau-Aktiengesellschaft Berlin",
+  "Land": "Duitsland",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 286130
+ },
+ {
+  "Naam": "Giorgi International Holdings S.à R.L.",
+  "Land": "Polen",
+  "Sector": "Verpakkingen",
+  "BelangEur": 46680399
+ },
+ {
+  "Naam": "Givaudan SA",
+  "Land": "Zwitserland",
+  "Sector": "Chemicaliën",
+  "BelangEur": 864188
+ },
+ {
+  "Naam": "Global Net Lease, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 8746155
+ },
+ {
+  "Naam": "Global Payments Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 2880769
+ },
+ {
+  "Naam": "Globe Telecom, Inc.",
+  "Land": "Filipijnen",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 44329744
+ },
+ {
+  "Naam": "Goat Holdco, LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Luchtvaart/Defensie",
+  "BelangEur": 299797
+ },
+ {
+  "Naam": "Gold Fields Limited",
+  "Land": "Zuid-Afrika",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 6523520
+ },
+ {
+  "Naam": "Government of Germany",
+  "Land": "Duitsland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 5501234
+ },
+ {
+  "Naam": "Government of Hungary",
+  "Land": "Hongarije",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 259228360
+ },
+ {
+  "Naam": "Government of Saskatchewan",
+  "Land": "Canada",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 798107
+ },
+ {
+  "Naam": "Government of the Province of Córdoba",
+  "Land": "Argentinie",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 2674089
+ },
+ {
+  "Naam": "Graphic Packaging Holding Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Papier",
+  "BelangEur": 41167190
+ },
+ {
+  "Naam": "Grasim Industries Limited",
+  "Land": "Verenigde Staten",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 41017869
+ },
+ {
+  "Naam": "Gray Media, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Media en entertainment",
+  "BelangEur": 770700
+ },
+ {
+  "Naam": "Great Gulf Group Limited",
+  "Land": "Verenigde Staten",
+  "Sector": "Woningbouw",
+  "BelangEur": 6580884
+ },
+ {
+  "Naam": "Green Mobility Holding S.A.",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Transportdiensten",
+  "BelangEur": 3728593
+ },
+ {
+  "Naam": "Grifols, S.A.",
+  "Land": "Spanje",
+  "Sector": "Farmaceutica",
+  "BelangEur": 50792808
+ },
+ {
+  "Naam": "Groupe BPCE",
+  "Land": "Frankrijk",
+  "Sector": "Banken",
+  "BelangEur": 162166217
+ },
+ {
+  "Naam": "Grupo Aval Acciones y Valores S.A.",
+  "Land": "Colombia",
+  "Sector": "Banken",
+  "BelangEur": 26073336
+ },
+ {
+  "Naam": "Grupo Bimbo, S.A.B. de C.V.",
+  "Land": "Mexico",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 2928231
+ },
+ {
+  "Naam": "Grupo Cibest S.A.",
+  "Land": "Colombia",
+  "Sector": "Banken",
+  "BelangEur": 46208637
+ },
+ {
+  "Naam": "Grupo Energía Bogotá S.A. E.S.P.",
+  "Land": "Colombia",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 6970796
+ },
+ {
+  "Naam": "Grupo Financiero BBVA México, S.A. de C.V.",
+  "Land": "Spanje",
+  "Sector": "Banken",
+  "BelangEur": 25323083
+ },
+ {
+  "Naam": "Grupo Financiero Banorte, S.A.B. de C.V.",
+  "Land": "Mexico",
+  "Sector": "Banken",
+  "BelangEur": 21532586
+ },
+ {
+  "Naam": "Grupo Gerdau Empreendimentos Ltda.",
+  "Land": "Brazilie",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 26552052
+ },
+ {
+  "Naam": "Grupo Nutresa S. A.",
+  "Land": "Colombia",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 13524695
+ },
+ {
+  "Naam": "Grupo Proeza, S.A. de C.V.",
+  "Land": "Mexico",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 3841312
+ },
+ {
+  "Naam": "Grupo de Inversiones Suramericana S.A.",
+  "Land": "Colombia",
+  "Sector": "Financieel overig",
+  "BelangEur": 12564892
+ },
+ {
+  "Naam": "HA Sustainable Infrastructure Capital, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Financieel overig",
+  "BelangEur": 13157994
+ },
+ {
+  "Naam": "HCA Healthcare, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 24962802
+ },
+ {
+  "Naam": "HDFC Bank Limited",
+  "Land": "India",
+  "Sector": "Banken",
+  "BelangEur": 17382236
+ },
+ {
+  "Naam": "HSBC Holdings plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Banken",
+  "BelangEur": 182283621
+ },
+ {
+  "Naam": "HT Holding, LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 7851287
+ },
+ {
+  "Naam": "HT TROPLAST GmbH",
+  "Land": "Duitsland",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 3988233
+ },
+ {
+  "Naam": "Haina Energy Holdings II",
+  "Land": "Dominicaanse Republiek",
+  "Sector": "Elektrisch",
+  "BelangEur": 20373431
+ },
+ {
+  "Naam": "Haleon Uk Holdings (No.7) Limited",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 2015945
+ },
+ {
+  "Naam": "Hammerson Ireland Finance Designated Actv Company",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Winkel Vastgoedfondsen",
+  "BelangEur": 4617272
+ },
+ {
+  "Naam": "Hanesbrands Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 3367327
+ },
+ {
+  "Naam": "Hanwha Life Insurance Co., Ltd.",
+  "Land": "Zuid-Korea",
+  "Sector": "Verzekeraars",
+  "BelangEur": 898721
+ },
+ {
+  "Naam": "Harvard Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 66776
+ },
+ {
+  "Naam": "Health Care Service Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Zorgverzekering",
+  "BelangEur": 2880094
+ },
+ {
+  "Naam": "Healthpeak Properties, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg Vastgoedfondsen",
+  "BelangEur": 3392039
+ },
+ {
+  "Naam": "Hejoassu AdministraÃ§Ã£o S.A.",
+  "Land": "Brazilie",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 32226491
+ },
+ {
+  "Naam": "Helios Towers plc",
+  "Land": "Tanzania",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 31618291
+ },
+ {
+  "Naam": "Hera S.p.A.",
+  "Land": "Italie",
+  "Sector": "Overheid gesponsord",
+  "BelangEur": 3320253
+ },
+ {
+  "Naam": "Herc Holdings Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmachines",
+  "BelangEur": 27687610
+ },
+ {
+  "Naam": "Herens Midco S.à r.l.",
+  "Land": "Luxemburg",
+  "Sector": "Chemicaliën",
+  "BelangEur": 2214427
+ },
+ {
+  "Naam": "Hertz Global Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Transportdiensten",
+  "BelangEur": 213651
+ },
+ {
+  "Naam": "Hilton Grand Vacations Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Logies",
+  "BelangEur": 6061944
+ },
+ {
+  "Naam": "Hilton Worldwide Holdings Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Logies",
+  "BelangEur": 16969638
+ },
+ {
+  "Naam": "Hiscox Ltd",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Verzekeraars",
+  "BelangEur": 13245634
+ },
+ {
+  "Naam": "Holcim AG",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 6503829
+ },
+ {
+  "Naam": "Holding Reti Autostradali SPA",
+  "Land": "Italie",
+  "Sector": "Transportdiensten",
+  "BelangEur": 105309303
+ },
+ {
+  "Naam": "Hologic, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 2475713
+ },
+ {
+  "Naam": "Honda Motor Co., Ltd.",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 6888314
+ },
+ {
+  "Naam": "Host Hotels & Resorts, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 3457815
+ },
+ {
+  "Naam": "Hovnanian Enterprises, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Woningbouw",
+  "BelangEur": 973251
+ },
+ {
+  "Naam": "Howard Hughes Holdings Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Financieel overig",
+  "BelangEur": 9670094
+ },
+ {
+  "Naam": "Huhtamäki Oyj",
+  "Land": "Finland",
+  "Sector": "Verpakkingen",
+  "BelangEur": 1322279
+ },
+ {
+  "Naam": "Huntington Bancshares Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 852418
+ },
+ {
+  "Naam": "Huntsman Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Chemicaliën",
+  "BelangEur": 17557631
+ },
+ {
+  "Naam": "Husky IMS Canadian Escrow Co-Issuer Ltd.",
+  "Land": "Canada",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 9272405
+ },
+ {
+  "Naam": "Hyatt Hotels Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Logies",
+  "BelangEur": 198908
+ },
+ {
+  "Naam": "Hyundai Card Co., Ltd.",
+  "Land": "Zuid-Korea",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 5934494
+ },
+ {
+  "Naam": "Hyundai Motor Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 15250951
+ },
+ {
+  "Naam": "IAC",
+  "Land": "Verenigde Staten",
+  "Sector": "Media en entertainment",
+  "BelangEur": 8928380
+ },
+ {
+  "Naam": "ICICI Bank Limited",
+  "Land": "India",
+  "Sector": "Banken",
+  "BelangEur": 2887194
+ },
+ {
+  "Naam": "ICON plc",
+  "Land": "Ierland",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 11554002
+ },
+ {
+  "Naam": "IDS Financing PLC",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Transportdiensten",
+  "BelangEur": 6835970
+ },
+ {
+  "Naam": "IHS Holding Limited",
+  "Land": "Nigeria",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 45759173
+ },
+ {
+  "Naam": "IIFL Finance Limited",
+  "Land": "India",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 2830194
+ },
+ {
+  "Naam": "INA-Holding Schaeffler GmbH & Co. KG",
+  "Land": "Duitsland",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 55259354
+ },
+ {
+  "Naam": "INEOS Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Chemicaliën",
+  "BelangEur": 17688406
+ },
+ {
+  "Naam": "ING Groep N.V.",
+  "Land": "Nederland",
+  "Sector": "Banken",
+  "BelangEur": 180956510
+ },
+ {
+  "Naam": "IPIC Holdings GmbH",
+  "Land": "Canada",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 18536852
+ },
+ {
+  "Naam": "IQVIA Holdings Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 45909287
+ },
+ {
+  "Naam": "IRB Infrastructure Developers Limited",
+  "Land": "India",
+  "Sector": "Transportdiensten",
+  "BelangEur": 8397893
+ },
+ {
+  "Naam": "Iberdrola, S.A.",
+  "Land": "Spanje",
+  "Sector": "Elektrisch",
+  "BelangEur": 119623833
+ },
+ {
+  "Naam": "Illinois Tool Works Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 1359995
+ },
+ {
+  "Naam": "Imola Merger Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 12846180
+ },
+ {
+  "Naam": "India Cleantech Energy Ltd",
+  "Land": "Mauritius",
+  "Sector": "Elektrisch",
+  "BelangEur": 30722817
+ },
+ {
+  "Naam": "India Green Power Holdings",
+  "Land": "India",
+  "Sector": "Elektrisch",
+  "BelangEur": 17918907
+ },
+ {
+  "Naam": "Indigo Group S.A.",
+  "Land": "Frankrijk",
+  "Sector": "Transportdiensten",
+  "BelangEur": 11430689
+ },
+ {
+  "Naam": "Indonesia",
+  "Land": "Indonesie",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 1115900554
+ },
+ {
+  "Naam": "Industrial Bank of Korea",
+  "Land": "Zuid-Korea",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 5511475
+ },
+ {
+  "Naam": "Ineos Holdings (Investments) Limited",
+  "Land": "Luxemburg",
+  "Sector": "Chemicaliën",
+  "BelangEur": 27683982
+ },
+ {
+  "Naam": "Infineon Technologies AG",
+  "Land": "Duitsland",
+  "Sector": "Technologie",
+  "BelangEur": 6627619
+ },
+ {
+  "Naam": "Informa plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Media en entertainment",
+  "BelangEur": 71689069
+ },
+ {
+  "Naam": "Ingersoll Rand Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 3732589
+ },
+ {
+  "Naam": "Ingles Markets, Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Supermarkten",
+  "BelangEur": 849947
+ },
+ {
+  "Naam": "Instituto Costarricense de Electricidad",
+  "Land": "Costa Rica",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 12208194
+ },
+ {
+  "Naam": "Intel Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 5216158
+ },
+ {
+  "Naam": "Inter-American Development Bank",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 64065248
+ },
+ {
+  "Naam": "InterContinental Hotels",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Logies",
+  "BelangEur": 5549776
+ },
+ {
+  "Naam": "InterEnergy Holdings Ltd.",
+  "Land": "Dominicaanse Republiek",
+  "Sector": "Elektrisch",
+  "BelangEur": 5703598
+ },
+ {
+  "Naam": "Interconexión Eléctrica S.A. E.S.P.",
+  "Land": "Colombia",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 53628066
+ },
+ {
+  "Naam": "Intercontinental Exchange, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 180668
+ },
+ {
+  "Naam": "Intercorp Perú Ltd.",
+  "Land": "Peru",
+  "Sector": "Supermarkten",
+  "BelangEur": 44129057
+ },
+ {
+  "Naam": "International Airport Finance, S.A.",
+  "Land": "Spanje",
+  "Sector": "Transportdiensten",
+  "BelangEur": 3232889
+ },
+ {
+  "Naam": "Intesa Sanpaolo S.p.A.",
+  "Land": "Italie",
+  "Sector": "Banken",
+  "BelangEur": 123801392
+ },
+ {
+  "Naam": "Intl Bank for Reconstruction and Development",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 314971006
+ },
+ {
+  "Naam": "Inversiones Angelini Y Compania Limitada",
+  "Land": "Chili",
+  "Sector": "Papier",
+  "BelangEur": 19189149
+ },
+ {
+  "Naam": "Inversiones Grupo Saesa Ltda",
+  "Land": "Chili",
+  "Sector": "Elektrisch",
+  "BelangEur": 50629423
+ },
+ {
+  "Naam": "Inversiones Quinchamali Limitada",
+  "Land": "Chili",
+  "Sector": "Detailhandel",
+  "BelangEur": 4215155
+ },
+ {
+  "Naam": "Invest Group Zouari",
+  "Land": "Frankrijk",
+  "Sector": "Supermarkten",
+  "BelangEur": 16622753
+ },
+ {
+  "Naam": "Invitation Homes Operating Partnership LP",
+  "Land": "Verenigde Staten",
+  "Sector": "Appartement Vastgoedfondsen",
+  "BelangEur": 1385347
+ },
+ {
+  "Naam": "Iris Holding Inc",
+  "Land": "Canada",
+  "Sector": "Verpakkingen",
+  "BelangEur": 2122415
+ },
+ {
+  "Naam": "Iron Mountain Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 27994358
+ },
+ {
+  "Naam": "Iron Mountain Inform Management Services, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 1764780
+ },
+ {
+  "Naam": "Istanbul Buyuksehir Belediyesi",
+  "Land": "Turkije",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 8364458
+ },
+ {
+  "Naam": "Italgas",
+  "Land": "Italie",
+  "Sector": "Aardgas",
+  "BelangEur": 10662818
+ },
+ {
+  "Naam": "Italgas S.p.A.",
+  "Land": "Italie",
+  "Sector": "Aardgas",
+  "BelangEur": 75904856
+ },
+ {
+  "Naam": "Itaúsa S.A.",
+  "Land": "Brazilie",
+  "Sector": "Banken",
+  "BelangEur": 2912207
+ },
+ {
+  "Naam": "Itelyum Regeneration Spa",
+  "Land": "Italie",
+  "Sector": "Milieu",
+  "BelangEur": 5557835
+ },
+ {
+  "Naam": "J.F. Shea Co., Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Woningbouw",
+  "BelangEur": 4687332
+ },
+ {
+  "Naam": "JH North America Holdings Inc",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 12896997
+ },
+ {
+  "Naam": "JPMorgan Chase & Co.",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 130986037
+ },
+ {
+  "Naam": "JSC Georgian Railway",
+  "Land": "Georgie",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 5742194
+ },
+ {
+  "Naam": "JSHP, LLLP",
+  "Land": "Verenigde Staten",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 14942618
+ },
+ {
+  "Naam": "JSW Energy Limited",
+  "Land": "India",
+  "Sector": "Elektrisch",
+  "BelangEur": 7643616
+ },
+ {
+  "Naam": "JSW Steel Limited",
+  "Land": "India",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 12588752
+ },
+ {
+  "Naam": "James Hardie Industries",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 6859256
+ },
+ {
+  "Naam": "Japan",
+  "Land": "Japan",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 1270837
+ },
+ {
+  "Naam": "Jardine Matheson Holdings Limited",
+  "Land": "Hongkong",
+  "Sector": "Financieel overig",
+  "BelangEur": 7333939
+ },
+ {
+  "Naam": "Jefferies Financial Group Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 1574344
+ },
+ {
+  "Naam": "Jyske Bank A/S",
+  "Land": "Denemarken",
+  "Sector": "Banken",
+  "BelangEur": 5222020
+ },
+ {
+  "Naam": "KB Financial Group Inc.",
+  "Land": "Zuid-Korea",
+  "Sector": "Banken",
+  "BelangEur": 7194119
+ },
+ {
+  "Naam": "KB Home",
+  "Land": "Verenigde Staten",
+  "Sector": "Woningbouw",
+  "BelangEur": 16081663
+ },
+ {
+  "Naam": "KBC Group NV",
+  "Land": "Belgie",
+  "Sector": "Banken",
+  "BelangEur": 48003930
+ },
+ {
+  "Naam": "KEB Hana Bank : Dunsan Branch",
+  "Land": "Zuid-Korea",
+  "Sector": "Banken",
+  "BelangEur": 5441853
+ },
+ {
+  "Naam": "Kaiser Permanente Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 2114179
+ },
+ {
+  "Naam": "Kantar Global Holdings S.a r.l.",
+  "Land": "Luxemburg",
+  "Sector": "Media en entertainment",
+  "BelangEur": 8011587
+ },
+ {
+  "Naam": "Kapla Holding S.A.S.",
+  "Land": "Frankrijk",
+  "Sector": "Niet gespecificeerd",
+  "BelangEur": 9364431
+ },
+ {
+  "Naam": "Kasikornbank Public Company Limited",
+  "Land": "Thailand",
+  "Sector": "Banken",
+  "BelangEur": 12617979
+ },
+ {
+  "Naam": "Kaspi kz",
+  "Land": "Kazachstan",
+  "Sector": "Technologie",
+  "BelangEur": 16786322
+ },
+ {
+  "Naam": "KeyCorp",
+  "Land": "Verenigde Staten",
+  "Sector": "Niet gespecificeerd",
+  "BelangEur": 2225297
+ },
+ {
+  "Naam": "KfW",
+  "Land": "Duitsland",
+  "Sector": "Overheidsgarantie",
+  "BelangEur": 997650082
+ },
+ {
+  "Naam": "Kier Group plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Overige industrie",
+  "BelangEur": 5149698
+ },
+ {
+  "Naam": "Kilroy Realty Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Kantoor Vastgoedfondsen",
+  "BelangEur": 9957895
+ },
+ {
+  "Naam": "Kimberly-Clark de México, S. A. B. de C. V.",
+  "Land": "Mexico",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 7331166
+ },
+ {
+  "Naam": "Kimco Realty Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Winkel Vastgoedfondsen",
+  "BelangEur": 63680
+ },
+ {
+  "Naam": "Kingspan Group plc",
+  "Land": "Ierland",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 41099170
+ },
+ {
+  "Naam": "Klabin S.A.",
+  "Land": "Brazilie",
+  "Sector": "Papier",
+  "BelangEur": 69805901
+ },
+ {
+  "Naam": "Koninklijke Ahold Delhaize N.V.",
+  "Land": "Nederland",
+  "Sector": "Supermarkten",
+  "BelangEur": 70605340
+ },
+ {
+  "Naam": "Koninklijke KPN N.V.",
+  "Land": "Nederland",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 118917490
+ },
+ {
+  "Naam": "Koninklijke Philips N.V.",
+  "Land": "Nederland",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 3027834
+ },
+ {
+  "Naam": "Kontoor Brands, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 10156930
+ },
+ {
+  "Naam": "Korea Electric Power Corporation",
+  "Land": "Zuid-Korea",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 6095050
+ },
+ {
+  "Naam": "Korea Gas Corporation",
+  "Land": "Zuid-Korea",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 7885905
+ },
+ {
+  "Naam": "Korea Housing Finance Corporation",
+  "Land": "Zuid-Korea",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 10315008
+ },
+ {
+  "Naam": "Krung Thai Bank Public Company Limited",
+  "Land": "Thailand",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 1227675
+ },
+ {
+  "Naam": "Kuntarahoitus Oyj",
+  "Land": "Finland",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 71059117
+ },
+ {
+  "Naam": "L'Arche Green N.V.",
+  "Land": "Nederland",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 132495266
+ },
+ {
+  "Naam": "LABL, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verpakkingen",
+  "BelangEur": 9317068
+ },
+ {
+  "Naam": "LEG Immobilien SE",
+  "Land": "Duitsland",
+  "Sector": "Financieel overig",
+  "BelangEur": 21284904
+ },
+ {
+  "Naam": "LG Chem, Ltd.",
+  "Land": "Zuid-Korea",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 27907637
+ },
+ {
+  "Naam": "LPL Financial Holdings Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 185923
+ },
+ {
+  "Naam": "LVMH Moët Hennessy - Louis Vuitton, Société Europé",
+  "Land": "Frankrijk",
+  "Sector": "Detailhandel",
+  "BelangEur": 106906972
+ },
+ {
+  "Naam": "Laboratoire EIMER SAS",
+  "Land": "Frankrijk",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 6523589
+ },
+ {
+  "Naam": "Lamar Advertising Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Media en entertainment",
+  "BelangEur": 8905836
+ },
+ {
+  "Naam": "Lamb Weston Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 17365312
+ },
+ {
+  "Naam": "Landesbank Baden-Württemberg",
+  "Land": "Duitsland",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 3224812
+ },
+ {
+  "Naam": "Landsbankinn hf.",
+  "Land": "IJsland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 4218475
+ },
+ {
+  "Naam": "Landwirtschaftliche Rentenbank",
+  "Land": "Duitsland",
+  "Sector": "Niet gespecificeerd",
+  "BelangEur": 300629172
+ },
+ {
+  "Naam": "Ld Celulose S.A.",
+  "Land": "Brazilie",
+  "Sector": "Papier",
+  "BelangEur": 19037940
+ },
+ {
+  "Naam": "Legal & General Group Plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Verzekeraars",
+  "BelangEur": 2390215
+ },
+ {
+  "Naam": "Levi Strauss & Co.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 25849701
+ },
+ {
+  "Naam": "Liberty Global Ltd.",
+  "Land": "Nederland",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 38417198
+ },
+ {
+  "Naam": "Liberty Global, Inc.",
+  "Land": "Nederland",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 5886065
+ },
+ {
+  "Naam": "Liberty Latin America Ltd.",
+  "Land": "Bermuda",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 30914602
+ },
+ {
+  "Naam": "Liberty Mutual Holding Company Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 7338393
+ },
+ {
+  "Naam": "Lima Metro Line 2 Finance Limited",
+  "Land": "Peru",
+  "Sector": "Spoorwegen",
+  "BelangEur": 14119460
+ },
+ {
+  "Naam": "Limak Cimento Sanayi ve Ticaret A.S.",
+  "Land": "Turkije",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 5071230
+ },
+ {
+  "Naam": "Linde plc",
+  "Land": "Verenigde Staten",
+  "Sector": "Chemicaliën",
+  "BelangEur": 134041752
+ },
+ {
+  "Naam": "Lion Finance Group PLC",
+  "Land": "Georgie",
+  "Sector": "Banken",
+  "BelangEur": 2931878
+ },
+ {
+  "Naam": "Lithia Motors, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 5972422
+ },
+ {
+  "Naam": "Lloyds Banking Group plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Banken",
+  "BelangEur": 93638037
+ },
+ {
+  "Naam": "Loews Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 254166
+ },
+ {
+  "Naam": "London Stock Exch Grp",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 2303089
+ },
+ {
+  "Naam": "London Stock Exchange Group plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 4840499
+ },
+ {
+  "Naam": "Lonza Group AG",
+  "Land": "Zwitserland",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 3471053
+ },
+ {
+  "Naam": "Lopam Fin S.p.A.",
+  "Land": "Italie",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 1261783
+ },
+ {
+  "Naam": "Lorca Jvco Limited",
+  "Land": "Spanje",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 24476257
+ },
+ {
+  "Naam": "Lowe's Companies, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 3814466
+ },
+ {
+  "Naam": "Loxam SAS",
+  "Land": "Frankrijk",
+  "Sector": "Bouwmachines",
+  "BelangEur": 10868200
+ },
+ {
+  "Naam": "Lumen Technologies, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 22984387
+ },
+ {
+  "Naam": "Luna 2.5 S.A.R.L.",
+  "Land": "Luxemburg",
+  "Sector": "Milieu",
+  "BelangEur": 2472267
+ },
+ {
+  "Naam": "Luppiter Consortium Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Aardgas",
+  "BelangEur": 1415338
+ },
+ {
+  "Naam": "LyondellBasell Industries N.V.",
+  "Land": "Verenigde Staten",
+  "Sector": "Chemicaliën",
+  "BelangEur": 885549
+ },
+ {
+  "Naam": "M&T Bank Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 457919
+ },
+ {
+  "Naam": "M/I Homes, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Woningbouw",
+  "BelangEur": 5880204
+ },
+ {
+  "Naam": "MAYA SAS",
+  "Land": "Frankrijk",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 79277863
+ },
+ {
+  "Naam": "MERLIN Properties SOCIMI, S.A.",
+  "Land": "Spanje",
+  "Sector": "Kantoor Vastgoedfondsen",
+  "BelangEur": 3278448
+ },
+ {
+  "Naam": "MFB Hungarian Development Bank Private Ltd Company",
+  "Land": "Hongarije",
+  "Sector": "Overheidsgarantie",
+  "BelangEur": 35176732
+ },
+ {
+  "Naam": "MHP SE",
+  "Land": "Oekra�ne",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 23677503
+ },
+ {
+  "Naam": "MI Windows and Doors, LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 11339013
+ },
+ {
+  "Naam": "MONETA Money Bank, a.s.",
+  "Land": "Tsjechie",
+  "Sector": "Banken",
+  "BelangEur": 21874444
+ },
+ {
+  "Naam": "MPT Operating Partnership, L.P.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg Vastgoedfondsen",
+  "BelangEur": 19125675
+ },
+ {
+  "Naam": "MTR Corporation Limited",
+  "Land": "Hongkong",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 13355861
+ },
+ {
+  "Naam": "Macy's, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 7943645
+ },
+ {
+  "Naam": "Madison Industries Holdings LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 5288102
+ },
+ {
+  "Naam": "Magnera Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Papier",
+  "BelangEur": 13280051
+ },
+ {
+  "Naam": "Magyar Export-I Bank Zártkörüen Müködö Részvénytár",
+  "Land": "Hongarije",
+  "Sector": "Overheidsgarantie",
+  "BelangEur": 43852421
+ },
+ {
+  "Naam": "MajorDrive Holdings IV, LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 8214463
+ },
+ {
+  "Naam": "Manila Water Company, Inc.",
+  "Land": "Filipijnen",
+  "Sector": "Overige nutsbedrijven",
+  "BelangEur": 3692097
+ },
+ {
+  "Naam": "Maples Group",
+  "Land": "Nederland",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 1365663
+ },
+ {
+  "Naam": "Markel Group Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 1268663
+ },
+ {
+  "Naam": "Market Topco Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Supermarkten",
+  "BelangEur": 4817981
+ },
+ {
+  "Naam": "Marriott Vacations Worldwide Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Logies",
+  "BelangEur": 8791536
+ },
+ {
+  "Naam": "Marsh & McLennan Companies, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 894451
+ },
+ {
+  "Naam": "Mass General Brigham Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 1244895
+ },
+ {
+  "Naam": "Massachusetts Mutual Life Insurance Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 16598718
+ },
+ {
+  "Naam": "Master Unsecured Topco S.À R.L.",
+  "Land": "Luxemburg",
+  "Sector": "Financieel overig",
+  "BelangEur": 1506512
+ },
+ {
+  "Naam": "Mastercard Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 2550772
+ },
+ {
+  "Naam": "Match Group, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 6243073
+ },
+ {
+  "Naam": "Mattamy Group Corporation",
+  "Land": "Canada",
+  "Sector": "Woningbouw",
+  "BelangEur": 16690952
+ },
+ {
+  "Naam": "Matterhorn Telecom Holding S.A.",
+  "Land": "Luxemburg",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 3829983
+ },
+ {
+  "Naam": "McAfee Corp.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 16982175
+ },
+ {
+  "Naam": "Medtronic plc",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 177109755
+ },
+ {
+  "Naam": "MehilÃ¤inen YhtymÃ¤ Oy",
+  "Land": "Finland",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 1963926
+ },
+ {
+  "Naam": "MercadoLibre, Inc.",
+  "Land": "Brazilie",
+  "Sector": "Detailhandel",
+  "BelangEur": 7288254
+ },
+ {
+  "Naam": "Mercedes-Benz Group AG",
+  "Land": "Duitsland",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 60162768
+ },
+ {
+  "Naam": "Mercer International, Inc.",
+  "Land": "Duitsland",
+  "Sector": "Papier",
+  "BelangEur": 11689680
+ },
+ {
+  "Naam": "Merck & Co",
+  "Land": "Nederland",
+  "Sector": "Farmaceutica",
+  "BelangEur": 9038958
+ },
+ {
+  "Naam": "Merck & Co., Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Farmaceutica",
+  "BelangEur": 2801838
+ },
+ {
+  "Naam": "Meritage Homes Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Woningbouw",
+  "BelangEur": 9169291
+ },
+ {
+  "Naam": "Methanex Corporation",
+  "Land": "Canada",
+  "Sector": "Chemicaliën",
+  "BelangEur": 3634286
+ },
+ {
+  "Naam": "Methanex Us Operations Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Chemicaliën",
+  "BelangEur": 5347783
+ },
+ {
+  "Naam": "Methodist Health Group Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 35103
+ },
+ {
+  "Naam": "Metis Merger Sub",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 8330415
+ },
+ {
+  "Naam": "Metropolitan Life Global Funding I",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 47850080
+ },
+ {
+  "Naam": "Mexico",
+  "Land": "Mexico",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 1114520491
+ },
+ {
+  "Naam": "Mexico City Airport Trust",
+  "Land": "Mexico",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 6063404
+ },
+ {
+  "Naam": "Micron Technology, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 4830119
+ },
+ {
+  "Naam": "Microsoft Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 6140553
+ },
+ {
+  "Naam": "Midcap Finco LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 13060134
+ },
+ {
+  "Naam": "Midcontinent Media",
+  "Land": "Verenigde Staten",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 15923276
+ },
+ {
+  "Naam": "Millicom International Cellular S.A.",
+  "Land": "Guatemala",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 52378169
+ },
+ {
+  "Naam": "Millrose Properties, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Woningbouw",
+  "BelangEur": 3027070
+ },
+ {
+  "Naam": "Mineral Resources Limited",
+  "Land": "Australie",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 22257925
+ },
+ {
+  "Naam": "Ministerio De Hacienda Y Credito Publico",
+  "Land": "Colombia",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 519413943
+ },
+ {
+  "Naam": "Ministerstvo Financi",
+  "Land": "Tsjechie",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 639636527
+ },
+ {
+  "Naam": "Ministerul Finantelor Publice",
+  "Land": "Roemenie",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 410308589
+ },
+ {
+  "Naam": "Ministry of Finance (the Netherlands)",
+  "Land": "Nederland",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 8856103082
+ },
+ {
+  "Naam": "Ministry of Finance, Thailand",
+  "Land": "Thailand",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 905790237
+ },
+ {
+  "Naam": "Ministry of Treasury and Finance",
+  "Land": "Turkije",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 123624859
+ },
+ {
+  "Naam": "Mirae Asset Securities Co., Ltd.",
+  "Land": "Zuid-Korea",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 2512962
+ },
+ {
+  "Naam": "Misto Holdings Corp.",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 8933214
+ },
+ {
+  "Naam": "Miter Brands Acquisition Holdco, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 812540
+ },
+ {
+  "Naam": "Mitsubishi UFJ Securities Holdings Co., Ltd.",
+  "Land": "Japan",
+  "Sector": "Banken",
+  "BelangEur": 9186233
+ },
+ {
+  "Naam": "Mizuho Financial Group, Inc.",
+  "Land": "Japan",
+  "Sector": "Banken",
+  "BelangEur": 5759374
+ },
+ {
+  "Naam": "Mobico Group Plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Transportdiensten",
+  "BelangEur": 2357564
+ },
+ {
+  "Naam": "Mondi plc",
+  "Land": "Oostenrijk",
+  "Sector": "Papier",
+  "BelangEur": 51364759
+ },
+ {
+  "Naam": "Monitchem Holdco 1 S.á.r.l.",
+  "Land": "Luxemburg",
+  "Sector": "Chemicaliën",
+  "BelangEur": 7562779
+ },
+ {
+  "Naam": "Moody's Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 2043750
+ },
+ {
+  "Naam": "Morgan Stanley",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 219303994
+ },
+ {
+  "Naam": "Morgan Stanley Private Bk",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 1363890
+ },
+ {
+  "Naam": "Motability Operations Group Plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 128607687
+ },
+ {
+  "Naam": "Mozart Debt Merger Sub Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 10151064
+ },
+ {
+  "Naam": "Mr. Cooper Group Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 10497732
+ },
+ {
+  "Naam": "Muangthai Capital Public Company Limited",
+  "Land": "Thailand",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 16108648
+ },
+ {
+  "Naam": "Multi-Inversiones, S.A.",
+  "Land": "Guatemala",
+  "Sector": "Elektrisch",
+  "BelangEur": 35029955
+ },
+ {
+  "Naam": "Muthoot Finance Limited",
+  "Land": "India",
+  "Sector": "Financieel overig",
+  "BelangEur": 9010570
+ },
+ {
+  "Naam": "Münchener Rückversicherungs-Gesellschaft Aktienges",
+  "Land": "Duitsland",
+  "Sector": "Verzekeraars",
+  "BelangEur": 31729187
+ },
+ {
+  "Naam": "N.V. Nederlandse Gasunie",
+  "Land": "Nederland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 4059082
+ },
+ {
+  "Naam": "NBN Co Limited",
+  "Land": "Australie",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 7421679
+ },
+ {
+  "Naam": "NCB Financial Group Limited",
+  "Land": "Jamaica",
+  "Sector": "Banken",
+  "BelangEur": 3624535
+ },
+ {
+  "Naam": "NCR Atleos Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 5528604
+ },
+ {
+  "Naam": "NCR Voyix Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 7454428
+ },
+ {
+  "Naam": "NE Property B.V",
+  "Land": "Roemenie",
+  "Sector": "Winkel Vastgoedfondsen",
+  "BelangEur": 65716926
+ },
+ {
+  "Naam": "NN Group N.V.",
+  "Land": "Nederland",
+  "Sector": "Verzekeraars",
+  "BelangEur": 14429847
+ },
+ {
+  "Naam": "NRW.BANK",
+  "Land": "Duitsland",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 34221620
+ },
+ {
+  "Naam": "NTT, Inc.",
+  "Land": "Japan",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 54608706
+ },
+ {
+  "Naam": "NXP Semiconductors N.V.",
+  "Land": "China",
+  "Sector": "Technologie",
+  "BelangEur": 10812318
+ },
+ {
+  "Naam": "Namsen Limited",
+  "Land": "Luxemburg",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 825281
+ },
+ {
+  "Naam": "NatWest Group plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Banken",
+  "BelangEur": 119554564
+ },
+ {
+  "Naam": "National Australia Bank Limited",
+  "Land": "Australie",
+  "Sector": "Hypotheek niet Pfandbriefe",
+  "BelangEur": 6110982
+ },
+ {
+  "Naam": "National Bank of Greece S.A.",
+  "Land": "Griekenland",
+  "Sector": "Banken",
+  "BelangEur": 14530666
+ },
+ {
+  "Naam": "National Grid plc",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 191794107
+ },
+ {
+  "Naam": "Nationwide Building Society",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Banken",
+  "BelangEur": 36074715
+ },
+ {
+  "Naam": "Natura CosmÃ©ticos S.A.",
+  "Land": "Brazilie",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 664076
+ },
+ {
+  "Naam": "Nautilus Energy Holdings LLC",
+  "Land": "Peru",
+  "Sector": "Elektrisch",
+  "BelangEur": 18058132
+ },
+ {
+  "Naam": "Navacord Inc.",
+  "Land": "Canada",
+  "Sector": "Verzekeraars",
+  "BelangEur": 8276212
+ },
+ {
+  "Naam": "Navient Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 28991969
+ },
+ {
+  "Naam": "Nayarit Participations",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Detailhandel",
+  "BelangEur": 34589970
+ },
+ {
+  "Naam": "Nederlandse Waterschapsbank N.V.",
+  "Land": "Nederland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 170301830
+ },
+ {
+  "Naam": "Nemak, S. A. B. de C. V.",
+  "Land": "Mexico",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 39921042
+ },
+ {
+  "Naam": "Neopharmed Gentili S.p.A.",
+  "Land": "Italie",
+  "Sector": "Farmaceutica",
+  "BelangEur": 5721102
+ },
+ {
+  "Naam": "Neptune Intermediate Jersey Limited",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 11310547
+ },
+ {
+  "Naam": "Neste Oyj",
+  "Land": "Finland",
+  "Sector": "Raffinage",
+  "BelangEur": 63921379
+ },
+ {
+  "Naam": "Nestlé S.A.",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 114703934
+ },
+ {
+  "Naam": "Netflix, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Media en entertainment",
+  "BelangEur": 9811827
+ },
+ {
+  "Naam": "New Enterprise Stone & Lime Co., Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 7743961
+ },
+ {
+  "Naam": "New York Life Insurance Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 54025815
+ },
+ {
+  "Naam": "Newell Brands Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 21506068
+ },
+ {
+  "Naam": "Nexans S.A.",
+  "Land": "Frankrijk",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 1891919
+ },
+ {
+  "Naam": "Nexi S.p.A.",
+  "Land": "Italie",
+  "Sector": "Technologie",
+  "BelangEur": 3897939
+ },
+ {
+  "Naam": "Next Alt S.à R.L.",
+  "Land": "Frankrijk",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 16445917
+ },
+ {
+  "Naam": "NextEra Energy, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 17215718
+ },
+ {
+  "Naam": "Niagara Generation Sac",
+  "Land": "Peru",
+  "Sector": "Elektrisch",
+  "BelangEur": 19603792
+ },
+ {
+  "Naam": "Nidda Healthcare Holding GmbH",
+  "Land": "Duitsland",
+  "Sector": "Farmaceutica",
+  "BelangEur": 8135067
+ },
+ {
+  "Naam": "Nissan Motor Co., Ltd.",
+  "Land": "Japan",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 33101435
+ },
+ {
+  "Naam": "Nomad Foods Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 7457392
+ },
+ {
+  "Naam": "Nordea Bank Abp",
+  "Land": "Finland",
+  "Sector": "Banken",
+  "BelangEur": 60742172
+ },
+ {
+  "Naam": "Nordic Investment Bank",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 18590611
+ },
+ {
+  "Naam": "Norsk Hydro ASA",
+  "Land": "Noorwegen",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 65884892
+ },
+ {
+  "Naam": "North Rhine-Westphalia (State of)",
+  "Land": "Duitsland",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 633351919
+ },
+ {
+  "Naam": "Novartis AG",
+  "Land": "Zwitserland",
+  "Sector": "Farmaceutica",
+  "BelangEur": 9631435
+ },
+ {
+  "Naam": "Novo Banco, S.A.",
+  "Land": "Portugal",
+  "Sector": "Banken",
+  "BelangEur": 2700380
+ },
+ {
+  "Naam": "Novo Nordisk A/S",
+  "Land": "Denemarken",
+  "Sector": "Farmaceutica",
+  "BelangEur": 104633420
+ },
+ {
+  "Naam": "Nucor Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 1779988
+ },
+ {
+  "Naam": "Nutrien Ltd.",
+  "Land": "Canada",
+  "Sector": "Chemicaliën",
+  "BelangEur": 3037323
+ },
+ {
+  "Naam": "O-I Glass, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verpakkingen",
+  "BelangEur": 45702331
+ },
+ {
+  "Naam": "ONE Gas, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Aardgas",
+  "BelangEur": 247229
+ },
+ {
+  "Naam": "OTP Bank Nyrt.",
+  "Land": "Hongarije",
+  "Sector": "Banken",
+  "BelangEur": 20259030
+ },
+ {
+  "Naam": "OVH Groupe S.A.",
+  "Land": "Frankrijk",
+  "Sector": "Technologie",
+  "BelangEur": 4050927
+ },
+ {
+  "Naam": "Odido Group Holding B.V.",
+  "Land": "Nederland",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 8992431
+ },
+ {
+  "Naam": "Olin Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Chemicaliën",
+  "BelangEur": 10179217
+ },
+ {
+  "Naam": "One Hotels & Resorts AG",
+  "Land": "Duitsland",
+  "Sector": "Logies",
+  "BelangEur": 5420205
+ },
+ {
+  "Naam": "OneMain Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 16353047
+ },
+ {
+  "Naam": "Ontario Teachers' Cadillac Fairview Proper Trust",
+  "Land": "Canada",
+  "Sector": "Overheid gesponsord",
+  "BelangEur": 8974447
+ },
+ {
+  "Naam": "Ontex Group NV",
+  "Land": "Belgie",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 4430771
+ },
+ {
+  "Naam": "Opal Holdco 4 Sas",
+  "Land": "Frankrijk",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 42119057
+ },
+ {
+  "Naam": "Oracle Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 16397487
+ },
+ {
+  "Naam": "Orange S.A.",
+  "Land": "Frankrijk",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 143621445
+ },
+ {
+  "Naam": "Orbia Advance Corporation, S.A.B. de C.V.",
+  "Land": "Mexico",
+  "Sector": "Chemicaliën",
+  "BelangEur": 17728964
+ },
+ {
+  "Naam": "Organizações Globo Participações S.A.",
+  "Land": "Brazilie",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 3974914
+ },
+ {
+  "Naam": "Organon & Co.",
+  "Land": "Verenigde Staten",
+  "Sector": "Farmaceutica",
+  "BelangEur": 31814936
+ },
+ {
+  "Naam": "Orlando Health Obligated Group, Florida",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 2377541
+ },
+ {
+  "Naam": "Otis Worldwide Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 2679690
+ },
+ {
+  "Naam": "Oversea-Chinese Banking Corporation Limited",
+  "Land": "Singapore",
+  "Sector": "Banken",
+  "BelangEur": 3461877
+ },
+ {
+  "Naam": "P3 Group S.àr.l",
+  "Land": "Luxemburg",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 6998184
+ },
+ {
+  "Naam": "PACCAR Inc",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 70814341
+ },
+ {
+  "Naam": "PCCW Limited",
+  "Land": "Hongkong",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 30195798
+ },
+ {
+  "Naam": "PGV GP S.Ã€ R.L.",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Media en entertainment",
+  "BelangEur": 14511772
+ },
+ {
+  "Naam": "PHINIA Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 1965944
+ },
+ {
+  "Naam": "PI Promotora de Infraestructuras, S.A.",
+  "Land": "Costa Rica",
+  "Sector": "Transportdiensten",
+  "BelangEur": 1979196
+ },
+ {
+  "Naam": "PLT VII Holding S.à r.l.",
+  "Land": "Luxemburg",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 5617380
+ },
+ {
+  "Naam": "PPL Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 7081973
+ },
+ {
+  "Naam": "PSA International Pte Ltd",
+  "Land": "Turkije",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 2618574
+ },
+ {
+  "Naam": "PT Bank Negara Indonesia (Persero) Tbk",
+  "Land": "Indonesie",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 7037438
+ },
+ {
+  "Naam": "PT Cikarang Listrindo Tbk",
+  "Land": "Indonesie",
+  "Sector": "Elektrisch",
+  "BelangEur": 30087397
+ },
+ {
+  "Naam": "PT Hutama Karya (Persero)",
+  "Land": "Indonesie",
+  "Sector": "Overheidsgarantie",
+  "BelangEur": 8338636
+ },
+ {
+  "Naam": "PT Pertamina (Persero)",
+  "Land": "Indonesie",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 32005270
+ },
+ {
+  "Naam": "PT Sorik Marapi Geothermal Power",
+  "Land": "Indonesie",
+  "Sector": "Elektrisch",
+  "BelangEur": 2164346
+ },
+ {
+  "Naam": "PT Tower Bersama Infrastructure Tbk",
+  "Land": "Indonesie",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 11288821
+ },
+ {
+  "Naam": "Pachelbel BidCo S.p.A.",
+  "Land": "Italie",
+  "Sector": "Overige industrie",
+  "BelangEur": 5874567
+ },
+ {
+  "Naam": "Pacific Mutual Holding Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 7437347
+ },
+ {
+  "Naam": "Panther Co-Issuer, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 17808661
+ },
+ {
+  "Naam": "Paprec Holding SA",
+  "Land": "Frankrijk",
+  "Sector": "Milieu",
+  "BelangEur": 26025737
+ },
+ {
+  "Naam": "Paramount Skydance Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Media en entertainment",
+  "BelangEur": 9400130
+ },
+ {
+  "Naam": "Park River Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 5503978
+ },
+ {
+  "Naam": "Parker-Hannifin Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 2134219
+ },
+ {
+  "Naam": "Patrick Industries, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 5366777
+ },
+ {
+  "Naam": "PayPal Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 1800955
+ },
+ {
+  "Naam": "Pe Mav Holdings, Llc",
+  "Land": "Verenigde Staten",
+  "Sector": "Media en entertainment",
+  "BelangEur": 2732584
+ },
+ {
+  "Naam": "PennyMac Financial Services, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 19287247
+ },
+ {
+  "Naam": "Penske Truck Leasing Co., L.P.",
+  "Land": "Verenigde Staten",
+  "Sector": "Transportdiensten",
+  "BelangEur": 4113837
+ },
+ {
+  "Naam": "Pentair plc",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 2247711
+ },
+ {
+  "Naam": "PepsiCo, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 66466885
+ },
+ {
+  "Naam": "Pernod Ricard SA",
+  "Land": "Frankrijk",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 1150222
+ },
+ {
+  "Naam": "Perrigo Company plc",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 21033216
+ },
+ {
+  "Naam": "Pershing Square Capital Management, L.P.",
+  "Land": "Verenigde Staten",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 1141769
+ },
+ {
+  "Naam": "Peru",
+  "Land": "Peru",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 329156123
+ },
+ {
+  "Naam": "Pfizer",
+  "Land": "Verenigde Staten",
+  "Sector": "Farmaceutica",
+  "BelangEur": 5491602
+ },
+ {
+  "Naam": "Pfizer Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Farmaceutica",
+  "BelangEur": 1950194
+ },
+ {
+  "Naam": "Philippines",
+  "Land": "Filipijnen",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 2757723
+ },
+ {
+  "Naam": "Piedmont Healthcare, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 15249
+ },
+ {
+  "Naam": "Pinnacle Topco Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Vrije tijd",
+  "BelangEur": 1049901
+ },
+ {
+  "Naam": "Pioneer Parent, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 1191671
+ },
+ {
+  "Naam": "Piraeus Financial Holdings S.A.",
+  "Land": "Griekenland",
+  "Sector": "Banken",
+  "BelangEur": 5281164
+ },
+ {
+  "Naam": "Pohjolan Voima Oyj",
+  "Land": "Finland",
+  "Sector": "Elektrisch",
+  "BelangEur": 111435253
+ },
+ {
+  "Naam": "Porsche Automobil Holding SE",
+  "Land": "Duitsland",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 348890521
+ },
+ {
+  "Naam": "Port Of Spain Waterfront Development Ltd",
+  "Land": "Trinidad en Tobago",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 3623726
+ },
+ {
+  "Naam": "Post Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 32095767
+ },
+ {
+  "Naam": "Power Finance Corporation Limited",
+  "Land": "India",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 31680993
+ },
+ {
+  "Naam": "Ppf Holdings B.V.",
+  "Land": "Nederland",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 35258189
+ },
+ {
+  "Naam": "Praemia Healthcare",
+  "Land": "Frankrijk",
+  "Sector": "Gezondheidszorg Vastgoedfondsen",
+  "BelangEur": 22249826
+ },
+ {
+  "Naam": "Prime Healthcare Services, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 3319180
+ },
+ {
+  "Naam": "Primo Water Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 14506538
+ },
+ {
+  "Naam": "Prologis Euro Finance LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 100448563
+ },
+ {
+  "Naam": "Prologis International Funding II S.A.",
+  "Land": "Luxemburg",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 159856589
+ },
+ {
+  "Naam": "Prologis, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 2489801
+ },
+ {
+  "Naam": "Prosus N.V.",
+  "Land": "Zuid-Afrika",
+  "Sector": "Media en entertainment",
+  "BelangEur": 5398824
+ },
+ {
+  "Naam": "Provincia de Buenos Aires",
+  "Land": "Argentinie",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 13339597
+ },
+ {
+  "Naam": "Proximus PLC",
+  "Land": "Belgie",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 26563464
+ },
+ {
+  "Naam": "Prudential Financial, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 2148338
+ },
+ {
+  "Naam": "Prysmian S.p.A.",
+  "Land": "Italie",
+  "Sector": "Overige industrie",
+  "BelangEur": 21869722
+ },
+ {
+  "Naam": "Public Joint Stock Company Acron",
+  "Land": "Frankrijk",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 9259082
+ },
+ {
+  "Naam": "Public Service Enterprise Group Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 2143907
+ },
+ {
+  "Naam": "Q-Park N.V.",
+  "Land": "Nederland",
+  "Sector": "Transportdiensten",
+  "BelangEur": 10533094
+ },
+ {
+  "Naam": "Qnity Electronics",
+  "Land": "Verenigde Staten",
+  "Sector": "Chemicaliën",
+  "BelangEur": 2779171
+ },
+ {
+  "Naam": "Quadgas Holdings Topco Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Aardgas",
+  "BelangEur": 58266863
+ },
+ {
+  "Naam": "Quest Diagnostics Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 1630582
+ },
+ {
+  "Naam": "Quikrete Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 6817308
+ },
+ {
+  "Naam": "RBC Bearings Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 5960440
+ },
+ {
+  "Naam": "RELX PLC",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Technologie",
+  "BelangEur": 12449828
+ },
+ {
+  "Naam": "REWE-ZENTRALFINANZ eG",
+  "Land": "Nederland",
+  "Sector": "Supermarkten",
+  "BelangEur": 17919310
+ },
+ {
+  "Naam": "RXO, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Transportdiensten",
+  "BelangEur": 6938512
+ },
+ {
+  "Naam": "Radiology Partners, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 2107678
+ },
+ {
+  "Naam": "Rady Children's Hospital And Health Center",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 4192363
+ },
+ {
+  "Naam": "Raiffeisen Banking Group",
+  "Land": "Oostenrijk",
+  "Sector": "Banken",
+  "BelangEur": 24444689
+ },
+ {
+  "Naam": "Raiffeisen Gruppe",
+  "Land": "Zwitserland",
+  "Sector": "Banken",
+  "BelangEur": 2209317
+ },
+ {
+  "Naam": "Rail Capital Markets PLC",
+  "Land": "Oekra�ne",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 1616412
+ },
+ {
+  "Naam": "Ray Financing LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 7493827
+ },
+ {
+  "Naam": "Raízen S.A.",
+  "Land": "Brazilie",
+  "Sector": "Raffinage",
+  "BelangEur": 32340510
+ },
+ {
+  "Naam": "ReNew Energy Global Plc",
+  "Land": "India",
+  "Sector": "Elektrisch",
+  "BelangEur": 54808946
+ },
+ {
+  "Naam": "Reckitt Benckiser Group plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 2859460
+ },
+ {
+  "Naam": "Rede D'Or São Luiz S.A.",
+  "Land": "Brazilie",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 24514803
+ },
+ {
+  "Naam": "Redhill Famco Ltd",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Banken",
+  "BelangEur": 21053845
+ },
+ {
+  "Naam": "Regal Rexnord Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 1816396
+ },
+ {
+  "Naam": "Renault SA",
+  "Land": "Frankrijk",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 22261182
+ },
+ {
+  "Naam": "Rentokil Initial plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 51155357
+ },
+ {
+  "Naam": "Rentokil Terminix",
+  "Land": "Verenigde Staten",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 5803294
+ },
+ {
+  "Naam": "Republic of Croatia",
+  "Land": "Kroatie",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 2541385
+ },
+ {
+  "Naam": "Reserve Bank of India",
+  "Land": "India",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 802510072
+ },
+ {
+  "Naam": "Restaurant Brands International Inc.",
+  "Land": "Canada",
+  "Sector": "Restaurants",
+  "BelangEur": 21827367
+ },
+ {
+  "Naam": "Revvity, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 4442298
+ },
+ {
+  "Naam": "Reworld Holding Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Milieu",
+  "BelangEur": 8198114
+ },
+ {
+  "Naam": "Rexel S.A.",
+  "Land": "Frankrijk",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 862730
+ },
+ {
+  "Naam": "Rio Purus Participações S.A.",
+  "Land": "Brazilie",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 15431930
+ },
+ {
+  "Naam": "Rivian Automotive",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 6827157
+ },
+ {
+  "Naam": "Rizal Commercial Banking Corporation",
+  "Land": "Filipijnen",
+  "Sector": "Banken",
+  "BelangEur": 4419861
+ },
+ {
+  "Naam": "Robert Bosch",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 20261339
+ },
+ {
+  "Naam": "Roche Holding AG",
+  "Land": "Verenigde Staten",
+  "Sector": "Farmaceutica",
+  "BelangEur": 17887605
+ },
+ {
+  "Naam": "Rock Holdings Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 5450065
+ },
+ {
+  "Naam": "Rocket Cos",
+  "Land": "Verenigde Staten",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 5594046
+ },
+ {
+  "Naam": "Rocket Cos Inc",
+  "Land": "Verenigde Staten",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 12008181
+ },
+ {
+  "Naam": "Rogers Communications Inc.",
+  "Land": "Canada",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 28531305
+ },
+ {
+  "Naam": "Rossini Investments S.à R.L.",
+  "Land": "Italie",
+  "Sector": "Farmaceutica",
+  "BelangEur": 2947622
+ },
+ {
+  "Naam": "Rotca Ab",
+  "Land": "Zweden",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 8048986
+ },
+ {
+  "Naam": "Rumo S.A.",
+  "Land": "Bermuda",
+  "Sector": "Spoorwegen",
+  "BelangEur": 60521876
+ },
+ {
+  "Naam": "Rutas 2 And 7 Finance Limited",
+  "Land": "Verenigde Staten",
+  "Sector": "Transportdiensten",
+  "BelangEur": 26382835
+ },
+ {
+  "Naam": "Ryman Hospitality Properties, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 3853076
+ },
+ {
+  "Naam": "S.B. Adani Family Trust",
+  "Land": "India",
+  "Sector": "Elektrisch",
+  "BelangEur": 36014015
+ },
+ {
+  "Naam": "SAS Rue La Boetie",
+  "Land": "Frankrijk",
+  "Sector": "Banken",
+  "BelangEur": 136296441
+ },
+ {
+  "Naam": "SBA Communications Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 1360627
+ },
+ {
+  "Naam": "SCIH Salt Holdings Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Chemicaliën",
+  "BelangEur": 11942901
+ },
+ {
+  "Naam": "SES S.A.",
+  "Land": "Luxemburg",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 2318852
+ },
+ {
+  "Naam": "SFS Holding",
+  "Land": "Verenigde Staten",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 14131467
+ },
+ {
+  "Naam": "SGS SA",
+  "Land": "Zwitserland",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 1407280
+ },
+ {
+  "Naam": "SIG Group AG",
+  "Land": "Luxemburg",
+  "Sector": "Papier",
+  "BelangEur": 43921463
+ },
+ {
+  "Naam": "SIX Group Ltd",
+  "Land": "Zwitserland",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 2338706
+ },
+ {
+  "Naam": "SK hynix Inc.",
+  "Land": "Zuid-Korea",
+  "Sector": "Technologie",
+  "BelangEur": 23862347
+ },
+ {
+  "Naam": "SMIC SG Holdings PTE. Ltd.",
+  "Land": "Filipijnen",
+  "Sector": "Overige industrie",
+  "BelangEur": 2536323
+ },
+ {
+  "Naam": "SNF GROUP",
+  "Land": "Frankrijk",
+  "Sector": "Chemicaliën",
+  "BelangEur": 47595521
+ },
+ {
+  "Naam": "SPIE SA",
+  "Land": "Frankrijk",
+  "Sector": "Milieu",
+  "BelangEur": 3282002
+ },
+ {
+  "Naam": "SS&C Technologies Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 4365212
+ },
+ {
+  "Naam": "SSE plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Elektrisch",
+  "BelangEur": 51882724
+ },
+ {
+  "Naam": "STERIS plc",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 4425487
+ },
+ {
+  "Naam": "SWF Holdings I Corp",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 2614281
+ },
+ {
+  "Naam": "Saavi Energia S.A R.L.",
+  "Land": "Luxemburg",
+  "Sector": "Elektrisch",
+  "BelangEur": 8931475
+ },
+ {
+  "Naam": "Sabesp Lux Sarl",
+  "Land": "Brazilie",
+  "Sector": "Overige nutsbedrijven",
+  "BelangEur": 10587267
+ },
+ {
+  "Naam": "Sagicor Financial Company Ltd.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 4469761
+ },
+ {
+  "Naam": "Sajjan Jindal Family Trust",
+  "Land": "India",
+  "Sector": "Transportdiensten",
+  "BelangEur": 1661509
+ },
+ {
+  "Naam": "Sally Beauty Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 6248050
+ },
+ {
+  "Naam": "Sammaan Capital Limited",
+  "Land": "India",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 2779397
+ },
+ {
+  "Naam": "San Miguel Industrias PET S.A.",
+  "Land": "Peru",
+  "Sector": "Verpakkingen",
+  "BelangEur": 18914706
+ },
+ {
+  "Naam": "Sandoz Group",
+  "Land": "Nederland",
+  "Sector": "Farmaceutica",
+  "BelangEur": 5984453
+ },
+ {
+  "Naam": "Sanofi",
+  "Land": "Frankrijk",
+  "Sector": "Farmaceutica",
+  "BelangEur": 11877046
+ },
+ {
+  "Naam": "Sappi Limited",
+  "Land": "Zuid-Afrika",
+  "Sector": "Papier",
+  "BelangEur": 11780174
+ },
+ {
+  "Naam": "Sartorius Aktiengesellschaft",
+  "Land": "Duitsland",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 89115746
+ },
+ {
+  "Naam": "Saverco Nv",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 99806506
+ },
+ {
+  "Naam": "Schneider Electric S.E.",
+  "Land": "Frankrijk",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 136519161
+ },
+ {
+  "Naam": "Scotia Gas Networks Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Aardgas",
+  "BelangEur": 1878208
+ },
+ {
+  "Naam": "Scottish Hydro Electric Transmission PLC",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Elektrisch",
+  "BelangEur": 114512038
+ },
+ {
+  "Naam": "Seagate Data Storage Technology Pte Ltd",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 9769361
+ },
+ {
+  "Naam": "Seagate Technology Hldgs",
+  "Land": "Singapore",
+  "Sector": "Technologie",
+  "BelangEur": 1304228
+ },
+ {
+  "Naam": "Sealed Air Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Verpakkingen",
+  "BelangEur": 14643461
+ },
+ {
+  "Naam": "Secretaria do Tesouro Nacional",
+  "Land": "Brazilie",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 730345737
+ },
+ {
+  "Naam": "Securitas AB (publ)",
+  "Land": "Zweden",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 68718665
+ },
+ {
+  "Naam": "Segro Capital Sarl",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 8248501
+ },
+ {
+  "Naam": "Segro European Logistics Partnership S.à R.L.",
+  "Land": "Luxemburg",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 25924431
+ },
+ {
+  "Naam": "Sempra",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 97420385
+ },
+ {
+  "Naam": "Sensata Technologies Holding plc",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 33783428
+ },
+ {
+  "Naam": "Serbia",
+  "Land": "Servie",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 38671968
+ },
+ {
+  "Naam": "Service Corporation International",
+  "Land": "Verenigde Staten",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 25104954
+ },
+ {
+  "Naam": "Severn Trent PLC",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Overige nutsbedrijven",
+  "BelangEur": 8581851
+ },
+ {
+  "Naam": "Shift4 Payments, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 5832588
+ },
+ {
+  "Naam": "Shinhan Financial Group Co., Ltd.",
+  "Land": "Zuid-Korea",
+  "Sector": "Banken",
+  "BelangEur": 19251195
+ },
+ {
+  "Naam": "Shriram Finance Limited",
+  "Land": "India",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 27528410
+ },
+ {
+  "Naam": "Siemens Aktiengesellschaft",
+  "Land": "Duitsland",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 47858139
+ },
+ {
+  "Naam": "Sika AG",
+  "Land": "Zwitserland",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 52415334
+ },
+ {
+  "Naam": "Silgan Holdings Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verpakkingen",
+  "BelangEur": 27765193
+ },
+ {
+  "Naam": "Silk Road Group Holding LLC",
+  "Land": "Malta",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 5960522
+ },
+ {
+  "Naam": "Simon Property Group, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Winkel Vastgoedfondsen",
+  "BelangEur": 59997
+ },
+ {
+  "Naam": "Sirius Real Estate Limited",
+  "Land": "Duitsland",
+  "Sector": "Financieel overig",
+  "BelangEur": 8381747
+ },
+ {
+  "Naam": "Sirius XM Holdings Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 15187864
+ },
+ {
+  "Naam": "Sisecam UK PLC",
+  "Land": "Turkije",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 21112400
+ },
+ {
+  "Naam": "Sitios LatinoamÃ©rica, S.A.B. de C.V.",
+  "Land": "Mexico",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 3341327
+ },
+ {
+  "Naam": "Six Flags Entertainment",
+  "Land": "Verenigde Staten",
+  "Sector": "Vrije tijd",
+  "BelangEur": 15547268
+ },
+ {
+  "Naam": "Skandinaviska Enskilda Banken AB (publ)",
+  "Land": "Zweden",
+  "Sector": "Banken",
+  "BelangEur": 87152413
+ },
+ {
+  "Naam": "Slovenský plynárenský priemysel, a.s.",
+  "Land": "Slowakije",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 4180697
+ },
+ {
+  "Naam": "Smith & Nephew plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 12902236
+ },
+ {
+  "Naam": "Smurfit Westrock Plc",
+  "Land": "Ierland",
+  "Sector": "Papier",
+  "BelangEur": 52988818
+ },
+ {
+  "Naam": "Snam S.p.A.",
+  "Land": "Italie",
+  "Sector": "Aardgas",
+  "BelangEur": 122914844
+ },
+ {
+  "Naam": "Sociedad Química y Minera de Chile S.A.",
+  "Land": "Chili",
+  "Sector": "Chemicaliën",
+  "BelangEur": 15606672
+ },
+ {
+  "Naam": "Societe Civile Des Mousquetaires",
+  "Land": "Frankrijk",
+  "Sector": "Detailhandel",
+  "BelangEur": 1996293
+ },
+ {
+  "Naam": "Société Générale Société anonyme",
+  "Land": "Frankrijk",
+  "Sector": "Banken",
+  "BelangEur": 230639779
+ },
+ {
+  "Naam": "Société des Grands Projets",
+  "Land": "Frankrijk",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 106564743
+ },
+ {
+  "Naam": "Sodexo S.A.",
+  "Land": "Frankrijk",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 808958
+ },
+ {
+  "Naam": "SoftBank Group Corp.",
+  "Land": "Japan",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 31256165
+ },
+ {
+  "Naam": "Solar Star Halifax 1 LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 12919951
+ },
+ {
+  "Naam": "Solvay SA",
+  "Land": "Belgie",
+  "Sector": "Chemicaliën",
+  "BelangEur": 506087
+ },
+ {
+  "Naam": "Solventum Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 15879339
+ },
+ {
+  "Naam": "Somnigroup International Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 14398556
+ },
+ {
+  "Naam": "South Africa",
+  "Land": "Zuid-Afrika",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 5780906
+ },
+ {
+  "Naam": "Spirit Aviation Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Luchtvaartmaatschappijen",
+  "BelangEur": 93480
+ },
+ {
+  "Naam": "Standard Chartered PLC",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Banken",
+  "BelangEur": 9096236
+ },
+ {
+  "Naam": "Standard Industries Hldg",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 1566142
+ },
+ {
+  "Naam": "Standard Industries Holdings Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 35925248
+ },
+ {
+  "Naam": "Stanford Health Care",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 1564463
+ },
+ {
+  "Naam": "Staples, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 4983751
+ },
+ {
+  "Naam": "Star Energy Geothermal (Salak - Darajat) B.V.",
+  "Land": "Indonesie",
+  "Sector": "Elektrisch",
+  "BelangEur": 31524294
+ },
+ {
+  "Naam": "Star Energy Group Holdings Pte Ltd",
+  "Land": "Indonesie",
+  "Sector": "Elektrisch",
+  "BelangEur": 30864860
+ },
+ {
+  "Naam": "Starcom Holding AD",
+  "Land": "Bulgarije",
+  "Sector": "Elektrisch",
+  "BelangEur": 21377676
+ },
+ {
+  "Naam": "Starmites Corporation, S.A.R.L.",
+  "Land": "Luxemburg",
+  "Sector": "Banken",
+  "BelangEur": 4889444
+ },
+ {
+  "Naam": "Starwood Property Trust, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 1318603
+ },
+ {
+  "Naam": "State Bank of India",
+  "Land": "India",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 3439896
+ },
+ {
+  "Naam": "State Street Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 3140582
+ },
+ {
+  "Naam": "Statkraft SF",
+  "Land": "Noorwegen",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 9871604
+ },
+ {
+  "Naam": "Stedin Holding N.V.",
+  "Land": "Nederland",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 1612994
+ },
+ {
+  "Naam": "Stellantis N.V.",
+  "Land": "Italie",
+  "Sector": "Transportdiensten",
+  "BelangEur": 29013058
+ },
+ {
+  "Naam": "Stichting AdminKant Aandelen Triodos Bank",
+  "Land": "Nederland",
+  "Sector": "Banken",
+  "BelangEur": 2905069
+ },
+ {
+  "Naam": "Stichting AdminKant Continuïteit Abn Amro Bank",
+  "Land": "Nederland",
+  "Sector": "Banken",
+  "BelangEur": 9378614
+ },
+ {
+  "Naam": "Stichting Administratiekantoor Multivest",
+  "Land": "Nederland",
+  "Sector": "Financieel overig",
+  "BelangEur": 12866120
+ },
+ {
+  "Naam": "Stora Enso Oyj",
+  "Land": "Finland",
+  "Sector": "Papier",
+  "BelangEur": 6750567
+ },
+ {
+  "Naam": "Stork Holdco Lp",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Financieel overig",
+  "BelangEur": 5050270
+ },
+ {
+  "Naam": "Stryker Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 73913566
+ },
+ {
+  "Naam": "Sucre Aquisition Co S.a.r.l",
+  "Land": "Frankrijk",
+  "Sector": "Overige nutsbedrijven",
+  "BelangEur": 4911834
+ },
+ {
+  "Naam": "Sumitomo Mitsui Financial Group, Inc.",
+  "Land": "Japan",
+  "Sector": "Banken",
+  "BelangEur": 3992151
+ },
+ {
+  "Naam": "Summit Digitel Infrastructure Limited",
+  "Land": "India",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 3351888
+ },
+ {
+  "Naam": "Sun Communities, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 2226989
+ },
+ {
+  "Naam": "Sutter Health",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 9937844
+ },
+ {
+  "Naam": "Suzano S.A.",
+  "Land": "Brazilie",
+  "Sector": "Papier",
+  "BelangEur": 87852666
+ },
+ {
+  "Naam": "Svenska Handelsbanken AB (publ)",
+  "Land": "Zweden",
+  "Sector": "Banken",
+  "BelangEur": 73498317
+ },
+ {
+  "Naam": "Swedbank AB (publ)",
+  "Land": "Zweden",
+  "Sector": "Banken",
+  "BelangEur": 11403803
+ },
+ {
+  "Naam": "Swiss Re AG",
+  "Land": "Zwitserland",
+  "Sector": "Verzekeraars",
+  "BelangEur": 1777488
+ },
+ {
+  "Naam": "Swiss Re Subordinated Finance Plc",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Verzekeraars",
+  "BelangEur": 2172740
+ },
+ {
+  "Naam": "Swisscom AG",
+  "Land": "Zwitserland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 98123152
+ },
+ {
+  "Naam": "Sydney Airport Limited",
+  "Land": "Australie",
+  "Sector": "Transportdiensten",
+  "BelangEur": 61829500
+ },
+ {
+  "Naam": "Synchrony Financial",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 3856047
+ },
+ {
+  "Naam": "Synopsys, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 20321204
+ },
+ {
+  "Naam": "Sysco Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 3833604
+ },
+ {
+  "Naam": "Séché Group SAS",
+  "Land": "Frankrijk",
+  "Sector": "Milieu",
+  "BelangEur": 515872
+ },
+ {
+  "Naam": "T-Mobile US, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 5242496
+ },
+ {
+  "Naam": "TAG Immobilien AG",
+  "Land": "Duitsland",
+  "Sector": "Financieel overig",
+  "BelangEur": 3749942
+ },
+ {
+  "Naam": "TAV Havalimanlari Holding A.S.",
+  "Land": "Italie",
+  "Sector": "Transportdiensten",
+  "BelangEur": 2620807
+ },
+ {
+  "Naam": "TBC Bank Group PLC",
+  "Land": "Georgie",
+  "Sector": "Banken",
+  "BelangEur": 2886417
+ },
+ {
+  "Naam": "TDR Capital LLP",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 7683007
+ },
+ {
+  "Naam": "TK Elevator Topco GmbH",
+  "Land": "Duitsland",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 7907461
+ },
+ {
+  "Naam": "Taiwan Semiconductor Manufacturing Company Limited",
+  "Land": "Taiwan",
+  "Sector": "Technologie",
+  "BelangEur": 11395535
+ },
+ {
+  "Naam": "Takeda Pharmaceutical Company Limited",
+  "Land": "Japan",
+  "Sector": "Farmaceutica",
+  "BelangEur": 102329022
+ },
+ {
+  "Naam": "Taylor Morrison Home Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Woningbouw",
+  "BelangEur": 15774390
+ },
+ {
+  "Naam": "Teachers Insurance and Annuity Assoc of America",
+  "Land": "Verenigde Staten",
+  "Sector": "Brokers/vermogensbeheerders/beurzen",
+  "BelangEur": 67276
+ },
+ {
+  "Naam": "Techem Verwaltungsgesellschaft 674 mbH",
+  "Land": "Duitsland",
+  "Sector": "Overige industrie",
+  "BelangEur": 18605421
+ },
+ {
+  "Naam": "Telecom Argentina S.A.",
+  "Land": "Argentinie",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 15827758
+ },
+ {
+  "Naam": "Telecom Italia S.p.A.",
+  "Land": "Italie",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 5616736
+ },
+ {
+  "Naam": "Telefónica, S.A.",
+  "Land": "Spanje",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 58449323
+ },
+ {
+  "Naam": "Telekom Srbija a.d. Beograd",
+  "Land": "Servie",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 6521719
+ },
+ {
+  "Naam": "Telenor ASA",
+  "Land": "Noorwegen",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 3410110
+ },
+ {
+  "Naam": "Telia Company AB (publ)",
+  "Land": "Zweden",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 3406842
+ },
+ {
+  "Naam": "Telstra Group Limited",
+  "Land": "Australie",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 316031
+ },
+ {
+  "Naam": "Temasek Financial Holdings Private Limited",
+  "Land": "Singapore",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 8511050
+ },
+ {
+  "Naam": "Tenedora Ci Sa De C.V.",
+  "Land": "Mexico",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 23337076
+ },
+ {
+  "Naam": "Tenet Healthcare Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 32331380
+ },
+ {
+  "Naam": "TenneT Holding B.V.",
+  "Land": "Nederland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 64008604
+ },
+ {
+  "Naam": "Tenneco LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 10139785
+ },
+ {
+  "Naam": "Tereos SCA",
+  "Land": "Frankrijk",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 3017858
+ },
+ {
+  "Naam": "Terex Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmachines",
+  "BelangEur": 6239483
+ },
+ {
+  "Naam": "Termocandelaria Power S.A.",
+  "Land": "Colombia",
+  "Sector": "Elektrisch",
+  "BelangEur": 1746654
+ },
+ {
+  "Naam": "Terna S.p.A.",
+  "Land": "Italie",
+  "Sector": "Elektrisch",
+  "BelangEur": 93789682
+ },
+ {
+  "Naam": "Tether Holdings, S.A. de C.V,",
+  "Land": "Brazilie",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 28258307
+ },
+ {
+  "Naam": "Texas Instruments Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 1614129
+ },
+ {
+  "Naam": "The AES Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 26508112
+ },
+ {
+  "Naam": "The Bank of East Asia, Limited",
+  "Land": "Hongkong",
+  "Sector": "Banken",
+  "BelangEur": 5567198
+ },
+ {
+  "Naam": "The Brink's Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 1338690
+ },
+ {
+  "Naam": "The Cigna Group",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 1939247
+ },
+ {
+  "Naam": "The Crawford Group, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Transportdiensten",
+  "BelangEur": 189598
+ },
+ {
+  "Naam": "The Export-Import Bank of Korea",
+  "Land": "Zuid-Korea",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 8530976
+ },
+ {
+  "Naam": "The Goldman Sachs Group, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 44307808
+ },
+ {
+  "Naam": "The Goodyear Tire & Rubber Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 19028320
+ },
+ {
+  "Naam": "The Home Depot, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 4778477
+ },
+ {
+  "Naam": "The International Development Association",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 666555768
+ },
+ {
+  "Naam": "The J. M. Smucker Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 2637662
+ },
+ {
+  "Naam": "The Korea Development Bank",
+  "Land": "Zuid-Korea",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 8434846
+ },
+ {
+  "Naam": "The Kraft Heinz Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 1771275
+ },
+ {
+  "Naam": "The NEQSOL Holding Azerbaijan LLC",
+  "Land": "Nederland",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 631311
+ },
+ {
+  "Naam": "The National Treasury",
+  "Land": "Zuid-Afrika",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 917671310
+ },
+ {
+  "Naam": "The PNC Financial Services Group, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 3019065
+ },
+ {
+  "Naam": "The Procter & Gamble Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 2240891
+ },
+ {
+  "Naam": "The Scotts Miracle-Gro Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 5622496
+ },
+ {
+  "Naam": "The State Treasury of the Republic of Poland",
+  "Land": "Polen",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 881873696
+ },
+ {
+  "Naam": "The University of Chicago",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 34135
+ },
+ {
+  "Naam": "The Walt Disney Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Media en entertainment",
+  "BelangEur": 1598585
+ },
+ {
+  "Naam": "The World Bank Group",
+  "Land": "Supranationaal",
+  "Sector": "Supranationaal",
+  "BelangEur": 18445223
+ },
+ {
+  "Naam": "Thermo Fisher Scientific Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 130589510
+ },
+ {
+  "Naam": "Tierra Mojada Luxembourg II S.Ã  r.l.",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 1588590
+ },
+ {
+  "Naam": "Tivana France Holdings SAS",
+  "Land": "Frankrijk",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 2126196
+ },
+ {
+  "Naam": "TopBuild Corp.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 636476
+ },
+ {
+  "Naam": "Toyota Motor Corporation",
+  "Land": "Japan",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 156430232
+ },
+ {
+  "Naam": "Trane Technologies plc",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 2836470
+ },
+ {
+  "Naam": "TransAlta Corporation",
+  "Land": "Canada",
+  "Sector": "Elektrisch",
+  "BelangEur": 5848275
+ },
+ {
+  "Naam": "TransDigm Group Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Luchtvaart/Defensie",
+  "BelangEur": 22200143
+ },
+ {
+  "Naam": "Transurban Group",
+  "Land": "Australie",
+  "Sector": "Transportdiensten",
+  "BelangEur": 626284
+ },
+ {
+  "Naam": "Travel + Leisure Co.",
+  "Land": "Verenigde Staten",
+  "Sector": "Logies",
+  "BelangEur": 8991825
+ },
+ {
+  "Naam": "TreeHouse Foods, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 9467729
+ },
+ {
+  "Naam": "Trident TPI Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Verpakkingen",
+  "BelangEur": 6574846
+ },
+ {
+  "Naam": "Trinity Industries, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 3755135
+ },
+ {
+  "Naam": "Tritax Management LLP",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Financieel overig",
+  "BelangEur": 4355011
+ },
+ {
+  "Naam": "Trivium Packaging B.V.",
+  "Land": "Nederland",
+  "Sector": "Verpakkingen",
+  "BelangEur": 7526387
+ },
+ {
+  "Naam": "Truist Financial Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 3760176
+ },
+ {
+  "Naam": "Turkcell Iletisim Hizmetleri A.S.",
+  "Land": "Turkije",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 53006103
+ },
+ {
+  "Naam": "Turkiye Garanti Bankasi Anonim Sirketi",
+  "Land": "Turkije",
+  "Sector": "Banken",
+  "BelangEur": 8727883
+ },
+ {
+  "Naam": "Türk Telekomünikasyon Anonim Sirketi",
+  "Land": "Turkije",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 37371347
+ },
+ {
+  "Naam": "Türkiye Cumhuriyeti Ziraat Bankasi A.S.",
+  "Land": "Turkije",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 8315025
+ },
+ {
+  "Naam": "Türkiye Sinai Kalkinma Bankasi A.S.",
+  "Land": "Turkije",
+  "Sector": "Banken",
+  "BelangEur": 7666548
+ },
+ {
+  "Naam": "Türkiye Vakiflar Bankasi Türk Anonim Ortakligi",
+  "Land": "Turkije",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 8808198
+ },
+ {
+  "Naam": "U.S. Bancorp",
+  "Land": "Verenigde Staten",
+  "Sector": "Banken",
+  "BelangEur": 4862733
+ },
+ {
+  "Naam": "UBS Group AG",
+  "Land": "Zwitserland",
+  "Sector": "Banken",
+  "BelangEur": 269420916
+ },
+ {
+  "Naam": "UCB SA",
+  "Land": "Belgie",
+  "Sector": "Farmaceutica",
+  "BelangEur": 7497374
+ },
+ {
+  "Naam": "UGI Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Energietransport en verwerking",
+  "BelangEur": 4608906
+ },
+ {
+  "Naam": "Unedic",
+  "Land": "Frankrijk",
+  "Sector": "Niet gespecificeerd",
+  "BelangEur": 99972000
+ },
+ {
+  "Naam": "UniCredit S.p.A.",
+  "Land": "Italie",
+  "Sector": "Banken",
+  "BelangEur": 134945979
+ },
+ {
+  "Naam": "Unibail-Rodamco-Westfield SE",
+  "Land": "Frankrijk",
+  "Sector": "Winkel Vastgoedfondsen",
+  "BelangEur": 9244686
+ },
+ {
+  "Naam": "Unicaja Banco, S.A.",
+  "Land": "Spanje",
+  "Sector": "Banken",
+  "BelangEur": 10718716
+ },
+ {
+  "Naam": "Union Pacific Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Spoorwegen",
+  "BelangEur": 180558
+ },
+ {
+  "Naam": "Unipol Gruppo",
+  "Land": "Italie",
+  "Sector": "Verzekeraars",
+  "BelangEur": 12334293
+ },
+ {
+  "Naam": "United Airlines Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Luchtvaartmaatschappijen",
+  "BelangEur": 13247741
+ },
+ {
+  "Naam": "United Group B.V.",
+  "Land": "Slovenie",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 25582502
+ },
+ {
+  "Naam": "United Overseas Bank Limited",
+  "Land": "Singapore",
+  "Sector": "Banken",
+  "BelangEur": 19474875
+ },
+ {
+  "Naam": "United Rentals, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmachines",
+  "BelangEur": 55199565
+ },
+ {
+  "Naam": "United States Department of The Treasury",
+  "Land": "Verenigde Staten",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 17313671
+ },
+ {
+  "Naam": "United States Steel Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 8328180
+ },
+ {
+  "Naam": "United Utilities Group PLC",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Overige nutsbedrijven",
+  "BelangEur": 4340613
+ },
+ {
+  "Naam": "UnitedHealth Group Incorporated",
+  "Land": "Verenigde Staten",
+  "Sector": "Zorgverzekering",
+  "BelangEur": 25243904
+ },
+ {
+  "Naam": "Uniti Group Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 3666033
+ },
+ {
+  "Naam": "Uniti Group LP",
+  "Land": "Verenigde Staten",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 10589977
+ },
+ {
+  "Naam": "Universal Music Group N.V.",
+  "Land": "Nederland",
+  "Sector": "Media en entertainment",
+  "BelangEur": 78456852
+ },
+ {
+  "Naam": "University of Miami",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 87797
+ },
+ {
+  "Naam": "University of Southern California",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 103087
+ },
+ {
+  "Naam": "Unum Group",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 1382190
+ },
+ {
+  "Naam": "Urenco Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 63083627
+ },
+ {
+  "Naam": "Uruguay",
+  "Land": "Uruguay",
+  "Sector": "Staatsobligaties",
+  "BelangEur": 21853535
+ },
+ {
+  "Naam": "Usinas Siderúrgicas de Minas Gerais S.A.",
+  "Land": "Brazilie",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 5803913
+ },
+ {
+  "Naam": "V.F. Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 8073987
+ },
+ {
+  "Naam": "VT Topco, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Consument cyclische diensten",
+  "BelangEur": 2056072
+ },
+ {
+  "Naam": "Valeo SE",
+  "Land": "Frankrijk",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 23124436
+ },
+ {
+  "Naam": "Vattenfall AB",
+  "Land": "Zweden",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 1284835
+ },
+ {
+  "Naam": "Velocity Vehicle Group LLC",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 1114888
+ },
+ {
+  "Naam": "Ventas, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg Vastgoedfondsen",
+  "BelangEur": 6617562
+ },
+ {
+  "Naam": "Veolia Environnement SA",
+  "Land": "Frankrijk",
+  "Sector": "Overige nutsbedrijven",
+  "BelangEur": 67587094
+ },
+ {
+  "Naam": "Veralto Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 65355281
+ },
+ {
+  "Naam": "Vereniging Achmea BV",
+  "Land": "Nederland",
+  "Sector": "Zorgverzekering",
+  "BelangEur": 24308027
+ },
+ {
+  "Naam": "Verizon Communications Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 210108537
+ },
+ {
+  "Naam": "Vesteda Finance B.V.",
+  "Land": "Nederland",
+  "Sector": "Financieel overig",
+  "BelangEur": 21238272
+ },
+ {
+  "Naam": "Vier Gas Holdings S.Ã  r.l.",
+  "Land": "Duitsland",
+  "Sector": "Aardgas",
+  "BelangEur": 37330760
+ },
+ {
+  "Naam": "Vinci SA",
+  "Land": "Dominicaanse Republiek",
+  "Sector": "Transportdiensten",
+  "BelangEur": 23621277
+ },
+ {
+  "Naam": "Virgin Media O2 Vendor Financing Notes V Design Ac",
+  "Land": "Ierland",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 14046634
+ },
+ {
+  "Naam": "Visa Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 11207639
+ },
+ {
+  "Naam": "Vistra Capital Markets (Ireland) Limited",
+  "Land": "Zwitserland",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 949264
+ },
+ {
+  "Naam": "Vistra Corp.",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 17602276
+ },
+ {
+  "Naam": "Vmed O2 Uk Holdco 3 Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Kabel en satelliet",
+  "BelangEur": 18945161
+ },
+ {
+  "Naam": "Vodafone Group Public Limited Company",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Telecommunicatie",
+  "BelangEur": 77626344
+ },
+ {
+  "Naam": "Volkswagen",
+  "Land": "Duitsland",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 76678682
+ },
+ {
+  "Naam": "Vonovia SE",
+  "Land": "Duitsland",
+  "Sector": "Financieel overig",
+  "BelangEur": 73749938
+ },
+ {
+  "Naam": "Vulcan Materials Company",
+  "Land": "Verenigde Staten",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 4147622
+ },
+ {
+  "Naam": "W. P. Carey Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 97409181
+ },
+ {
+  "Naam": "W. R. Berkley Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 1278634
+ },
+ {
+  "Naam": "WD FF Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Supermarkten",
+  "BelangEur": 14301727
+ },
+ {
+  "Naam": "WEPA Industrieholding SE",
+  "Land": "Duitsland",
+  "Sector": "Papier",
+  "BelangEur": 6627204
+ },
+ {
+  "Naam": "WESCO International, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 4433960
+ },
+ {
+  "Naam": "WM Holding Company, LLC",
+  "Land": "Frankrijk",
+  "Sector": "Detailhandel",
+  "BelangEur": 9422832
+ },
+ {
+  "Naam": "WPC Eurobond B.V.",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige Vastgoedfondsen",
+  "BelangEur": 41482525
+ },
+ {
+  "Naam": "Wabash National Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 565029
+ },
+ {
+  "Naam": "Walmart Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 2358313
+ },
+ {
+  "Naam": "Warner Bros. Discovery, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Media en entertainment",
+  "BelangEur": 15696970
+ },
+ {
+  "Naam": "Warner Music Group Corp.",
+  "Land": "Verenigde Staten",
+  "Sector": "Media en entertainment",
+  "BelangEur": 14583164
+ },
+ {
+  "Naam": "Washington University, St. Louis",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 113825
+ },
+ {
+  "Naam": "Waste Management, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Milieu",
+  "BelangEur": 5068569
+ },
+ {
+  "Naam": "Welltower Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg Vastgoedfondsen",
+  "BelangEur": 573106
+ },
+ {
+  "Naam": "Werfen, S.A.",
+  "Land": "Spanje",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 2759185
+ },
+ {
+  "Naam": "Western Digital Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 19278421
+ },
+ {
+  "Naam": "Westinghouse Air Brake Technologies Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Gediversifieerde productie",
+  "BelangEur": 19723089
+ },
+ {
+  "Naam": "Westpac Banking Corporation",
+  "Land": "Australie",
+  "Sector": "Banken",
+  "BelangEur": 6844585
+ },
+ {
+  "Naam": "Whirlpool Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Consumentenproducten",
+  "BelangEur": 6316489
+ },
+ {
+  "Naam": "Wiener Städtische Wechselseitige Versicherungsvere",
+  "Land": "Oostenrijk",
+  "Sector": "Verzekeraars",
+  "BelangEur": 6300503
+ },
+ {
+  "Naam": "WillScot Holdings Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Overige industrie",
+  "BelangEur": 2457347
+ },
+ {
+  "Naam": "Windfall Mining Group Inc / Groupe Minier Windfall Inc",
+  "Land": "Canada",
+  "Sector": "Metalen en mijnbouw",
+  "BelangEur": 4792314
+ },
+ {
+  "Naam": "Windsor Business Ltd.",
+  "Land": "Britse Maagdeneilanden",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 29441909
+ },
+ {
+  "Naam": "Wolseley Group Holdings Limited",
+  "Land": "Verenigd Koninkrijk",
+  "Sector": "Bouwmaterialen",
+  "BelangEur": 5978235
+ },
+ {
+  "Naam": "Wolters Kluwer N.V.",
+  "Land": "Nederland",
+  "Sector": "Technologie",
+  "BelangEur": 94377557
+ },
+ {
+  "Naam": "Wolverine World Wide, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Detailhandel",
+  "BelangEur": 5832426
+ },
+ {
+  "Naam": "Woolworths Group Limited",
+  "Land": "Australie",
+  "Sector": "Supermarkten",
+  "BelangEur": 53411699
+ },
+ {
+  "Naam": "Woori Financial Group Inc.",
+  "Land": "Zuid-Korea",
+  "Sector": "Banken",
+  "BelangEur": 3427022
+ },
+ {
+  "Naam": "Worldpay",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 4230949
+ },
+ {
+  "Naam": "XPLR Infrastructure, LP",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 12485707
+ },
+ {
+  "Naam": "XPO, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Transportdiensten",
+  "BelangEur": 3294651
+ },
+ {
+  "Naam": "Xcel Energy Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Elektrisch",
+  "BelangEur": 5149658
+ },
+ {
+  "Naam": "Yapi ve Kredi Bankasi A.S.",
+  "Land": "Turkije",
+  "Sector": "Banken",
+  "BelangEur": 8774233
+ },
+ {
+  "Naam": "Yum! Brands, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Restaurants",
+  "BelangEur": 17250321
+ },
+ {
+  "Naam": "ZF Friedrichshafen AG",
+  "Land": "Duitsland",
+  "Sector": "Automobielindustrie",
+  "BelangEur": 61645553
+ },
+ {
+  "Naam": "Zebra Technologies Corporation",
+  "Land": "Verenigde Staten",
+  "Sector": "Technologie",
+  "BelangEur": 260579
+ },
+ {
+  "Naam": "Zimmer Biomet Holdings, Inc.",
+  "Land": "Verenigde Staten",
+  "Sector": "Gezondheidszorg",
+  "BelangEur": 2353242
+ },
+ {
+  "Naam": "Zorlu Enerji Elektrik Üretim A.S.",
+  "Land": "Turkije",
+  "Sector": "Elektrisch",
+  "BelangEur": 9484603
+ },
+ {
+  "Naam": "Zuivelcoöperatie Frieslandcampina U.A.",
+  "Land": "Nederland",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 480439
+ },
+ {
+  "Naam": "Zürcher Kantonalbank",
+  "Land": "Zwitserland",
+  "Sector": "Lokale autoriteiten",
+  "BelangEur": 6110370
+ },
+ {
+  "Naam": "ageas SA/NV",
+  "Land": "Verenigde Staten",
+  "Sector": "Verzekeraars",
+  "BelangEur": 16241615
+ },
+ {
+  "Naam": "alstria office AG",
+  "Land": "Duitsland",
+  "Sector": "Financieel overig",
+  "BelangEur": 8017897
+ },
+ {
+  "Naam": "goeasy Ltd.",
+  "Land": "Canada",
+  "Sector": "Financiële maatschappijen",
+  "BelangEur": 1237956
+ },
+ {
+  "Naam": "Íslandsbanki hf.",
+  "Land": "IJsland",
+  "Sector": "Banken",
+  "BelangEur": 2740461
+ },
+ {
+  "Naam": "Ørsted A/S",
+  "Land": "Denemarken",
+  "Sector": "Staatseigendom zonder garantie",
+  "BelangEur": 8803730
+ },
+ {
+  "Naam": "Ülker Bisküvi Sanayi A.S.",
+  "Land": "Turkije",
+  "Sector": "Voedsel en drank",
+  "BelangEur": 857199
+ }
+]
