@@ -368,7 +368,6 @@ def html_tables_extract(html, url, must_include_headings=None):
     return results
 
 def scrape_site_html_tables(site, con, dry_run=False):
-    """Scrape a page containing inline HTML tables (PMT-style)."""
     html, final_url = get_html(site["start_url"])
     tables = html_tables_extract(html, final_url, site.get("must_include_headings"))
 
@@ -376,19 +375,19 @@ def scrape_site_html_tables(site, con, dry_run=False):
         print(f"[WARN] No tables found on {site['name']}")
         return
 
-    for category, df in tables:
+    for category, df in tables:   # ← LOOP STARTS HERE
         fp = df_fingerprint(df)
         last = get_last_fingerprint(con, site["name"], category)
 
-    if last == fp:
-        print(f"[SKIP] {site['name']}/{category}: no change")
-        continue
+        if last == fp:
+            print(f"[SKIP] {site['name']}/{category}: no change")
+            continue               # ← MUST BE INDENTED TO THIS LEVEL
 
-    if not dry_run:
-        set_fingerprint(con, site["name"], category, fp)
+        if not dry_run:
+            set_fingerprint(con, site["name"], category, fp)
 
-    path = save_table(site["name"], category, df, dry_run=dry_run)
-    print(f"[NEW ] {site['name']}/{category} -> {path}")
+        path = save_table(site["name"], category, df, dry_run=dry_run)
+        print(f"[NEW ] {site['name']}/{category} -> {path}")
 
 # ------------------ PME (paged_html_tables) ------------------
 
