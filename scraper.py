@@ -377,8 +377,8 @@ def scrape_site_html_tables(site, con, dry_run=False):
         return
 
     for category, df in tables:
-    fp = df_fingerprint(df)
-    last = get_last_fingerprint(con, site["name"], category)
+        fp = df_fingerprint(df)
+        last = get_last_fingerprint(con, site["name"], category)
 
     if last == fp:
         print(f"[SKIP] {site['name']}/{category}: no change")
