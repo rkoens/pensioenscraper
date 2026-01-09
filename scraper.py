@@ -74,7 +74,10 @@ def init_db():
         fetched_at TEXT
     )""")
     con.commit()
+    ensure_seen_schema(con)
+
     return con
+
 
 def content_hash_bytes(b: bytes) -> str:
     return hashlib.sha256(b).hexdigest()
@@ -162,6 +165,57 @@ def fetch_if_new(con, url, dry_run=False):
     if not dry_run:
         upsert_seen(con, url, r.headers.get("ETag"), r.headers.get("Last-Modified"), chash)
     return blob, r.headers.get("ETag"), r.headers.get("Last-Modified")
+
+def df_fingerprint(df: pd.DataFrame) -> str:
+    df2 = df.copy()
+
+    df2 = df2.reindex(sorted(df2.columns), axis=1)
+
+    # Normalize types lightly: strings trimmed, NaNs stable
+    for col in df2.columns:
+        if pd.api.types.is_object_dtype(df2[col]):
+            df2[col] = df2[col].astype(str).str.strip()
+    df2 = df2.fillna("")
+
+    # Stable row order: sort by all columns (string sort)
+    sort_cols = list(df2.columns)
+    df2 = df2.sort_values(by=sort_cols, kind="mergesort").reset_index(drop=True)
+
+    # Canonical CSV serialization
+    csv_bytes = df2.to_csv(index=False, lineterminator="\n").encode("utf-8")
+
+    return hashlib.sha256(csv_bytes).hexdigest()
+
+import sqlite3
+
+def ensure_seen_schema(conn: sqlite3.Connection) -> None:
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS section_fingerprint (
+            site TEXT NOT NULL,
+            section TEXT NOT NULL,
+            fingerprint TEXT NOT NULL,
+            updated_at TEXT NOT NULL DEFAULT (datetime('now')),
+            PRIMARY KEY (site, section)
+        )
+    """)
+    conn.commit()
+
+def get_last_fingerprint(conn: sqlite3.Connection, site: str, section: str) -> str | None:
+    row = conn.execute(
+        "SELECT fingerprint FROM section_fingerprint WHERE site=? AND section=?",
+        (site, section),
+    ).fetchone()
+    return row[0] if row else None
+
+def set_fingerprint(conn: sqlite3.Connection, site: str, section: str, fp: str) -> None:
+    conn.execute("""
+        INSERT INTO section_fingerprint(site, section, fingerprint, updated_at)
+        VALUES(?, ?, ?, datetime('now'))
+        ON CONFLICT(site, section) DO UPDATE SET
+            fingerprint=excluded.fingerprint,
+            updated_at=datetime('now')
+    """, (site, section, fp))
+    conn.commit()
 
 # ------------------ PFZW (json_links) ------------------
 
@@ -323,18 +377,18 @@ def scrape_site_html_tables(site, con, dry_run=False):
         return
 
     for category, df in tables:
-        synthetic_url = f"{final_url}#{category}"
-        h = dataframe_hash(df)
-        prev = already_seen(con, synthetic_url)
+    fp = df_fingerprint(df)
+    last = get_last_fingerprint(con, site["name"], category)
 
-        if prev and prev[2] == h:
-            print(f"[SKIP] {site['name']}/{category}: no change")
-            continue
+    if last == fp:
+        print(f"[SKIP] {site['name']}/{category}: no change")
+        continue
 
-        if not dry_run:
-            upsert_seen(con, synthetic_url, None, None, h)
-        path = save_table(site["name"], category, df, dry_run=dry_run)
-        print(f"[NEW ] {site['name']}/{category} -> {path}")
+    if not dry_run:
+        set_fingerprint(con, site["name"], category, fp)
+
+    path = save_table(site["name"], category, df, dry_run=dry_run)
+    print(f"[NEW ] {site['name']}/{category} -> {path}")
 
 # ------------------ PME (paged_html_tables) ------------------
 
@@ -412,14 +466,16 @@ def scrape_pme_paged(site, con, dry_run=False):
         if df.empty:
             print(f"[WARN] {site['name']}/{cat}: empty result")
             continue
-        key = f"{final_url}#{cat}"
-        h = dataframe_hash(df)
-        prev = already_seen(con, key)
-        if prev and prev[2] == h:
+        fp = df_fingerprint(df)
+        last = get_last_fingerprint(con, site["name"], cat)
+        
+        if last == fp:
             print(f"[SKIP] {site['name']}/{cat}: no change")
             continue
+        
         if not dry_run:
-            upsert_seen(con, key, None, None, h)
+            set_fingerprint(con, site["name"], cat, fp)
+        
         path = save_table(site["name"], cat, df, dry_run=dry_run)
         print(f"[NEW ] {site['name']}/{cat} -> {path}")
 
